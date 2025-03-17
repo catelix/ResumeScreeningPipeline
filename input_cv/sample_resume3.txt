@@ -1,0 +1,52 @@
+Michael Brown
+789 Pine Street, Metropolis, USA
+michael.brown@example.com
+(555) 456-7890
+
+PROFESSIONAL SUMMARY
+Detail-oriented software developer with 5 years of experience in web application development and database management. Seeking a challenging position to utilize my technical skills and problem-solving abilities.
+
+WORK EXPERIENCE
+Tech Solutions Inc., Metropolis, USA
+Junior Developer | June 2020 - Present
+• Developed and maintained web applications using JavaScript, HTML, and CSS
+• Collaborated with design team to implement user interface improvements
+• Debugged and resolved software issues in existing applications
+• Participated in code reviews and implemented feedback from senior developers
+• Assisted in database management and optimization
+
+DataCorp, Metropolis, USA
+IT Intern | January 2019 - May 2020
+• Provided technical support to staff members
+• Assisted with network maintenance and troubleshooting
+• Documented technical procedures and created user guides
+• Participated in software testing and quality assurance
+
+EDUCATION
+Metropolis University, Metropolis, USA
+Bachelor of Science in Computer Science | Graduated May 2019
+
+TECHNICAL SKILLS
+• Programming Languages: JavaScript, Python, Java
+• Web Technologies: HTML5, CSS3, React, Node.js
+• Database: MySQL, MongoDB
+• Tools: Git, JIRA, VS Code
+• Operating Systems: Windows, Linux, macOS
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate (2021)
+• CompTIA A+ (2019)
+
+PROJECTS
+E-commerce Website (2021)
+• Developed a responsive e-commerce website using React and Node.js
+• Implemented payment processing integration and user authentication
+• Designed and optimized database schema for product inventory
+
+Inventory Management System (2020)
+• Created a desktop application for small businesses to track inventory
+• Implemented barcode scanning functionality and reporting features
+• Utilized Python and SQLite for backend operations
+
+AVAILABILITY
+Weekdays 9 AM - 5 PM

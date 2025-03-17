@@ -1,0 +1,372 @@
+name,email,phone,experience,skills,keyword_count,found_keywords,is_relevant,file_name
+Liam Boyle,liam.boyle@hotmail.com,089 594 1378,"Advanced Certificate in Hospitality Management, Waterford Institute of Technology (Currently studying)
+Bachelor of Arts in Arts, Dundalk Institute of Technology (2019)","Advanced Certificate in Hospitality Management, Waterford Institute of Technology (Currently studying)
+Bachelor of Arts in Arts, Dundalk Institute of Technology (2019)",7,"cook, fast food, customer service, hospitality, kitchen, shift manager, food preparation",True,Irish_CV_022.pdf
+Roisin Brennan,roisinb@yahoo.com,089 543 1811,"Bachelor of Engineering in Business, Griffith College Dublin (2020)","Bachelor of Engineering in Business, Griffith College Dublin (2020)",1,customer service,False,Irish_CV_036.pdf
+Liam Lynch,liamlynch@hotmail.com,085 380 8960,"Leaving Certificate in Communications, Trinity College Dublin (2019)
+Bachelor of Business Studies in Psychology, Dundalk Institute of Technology (2019)","Leaving Certificate in Communications, Trinity College Dublin (2019)
+Bachelor of Business Studies in Psychology, Dundalk Institute of Technology (2019)",2,"kitchen, team member",True,Irish_CV_037.pdf
+Eimear Byrne,ebyrne@gmail.com,089 478 0457,"Ordinary Bachelor Degree in Hospitality Management, University College Cork (Currently studying)","Ordinary Bachelor Degree in Hospitality Management, University College Cork (Currently studying)",2,"hospitality, shift manager",True,Irish_CV_023.pdf
+Emma Boyle,emmab@hotmail.com,086 875 6640,"Master of Arts in Nutrition, Trinity College Dublin (Currently studying)
+Bachelor of Arts in Accounting, Dublin Institute of Technology (2023)","• health and safety
+• fast-paced environment
+• time management
+• food hygiene
+• scheduling
+• menu knowledge
+• order taking
+• training
+• Google Workspace
+• Sales
+REFERENCES
+References available upon request",5,"fast food, customer service, cashier, kitchen, food preparation",True,Irish_CV_035.pdf
+Oisin Lynch,olynch@hotmail.com,087 993 5184,"Higher Certificate in Arts, Institute of Technology Carlow (2024)","• customer service
+• cooking
+• health and safety
+• conflict resolution
+• teamwork
+• upselling
+• HACCP
+• food preparation
+• allergen awareness
+• Google Workspace
+• Social Media
+REFERENCES
+References available upon request",6,"cook, fast food, customer service, cashier, kitchen, food preparation",True,Irish_CV_021.pdf
+Liam O'Farrell,farrell@eircom.net,085 533 8756,"Bachelor of Engineering in Mathematics, Limerick Institute of Technology (Currently studying)","Bachelor of Engineering in Mathematics, Limerick Institute of Technology (Currently studying)",7,"cook, burger king, kitchen, server, shift manager, food preparation, kfc",True,Irish_CV_009.pdf
+Cillian Ryan,cillian.ryan@gmail.com,089 969 4939,"Higher Certificate in Hotel Management, Limerick Institute of Technology (2021)
+Honours Bachelor Degree in Hotel Management, Griffith College Dublin (Currently studying)","Higher Certificate in Hotel Management, Limerick Institute of Technology (2021)
+Honours Bachelor Degree in Hotel Management, Griffith College Dublin (Currently studying)",5,"fast food, customer service, cashier, kitchen, food preparation",True,Irish_CV_008.pdf
+Siobhan McGrath,smcgrath@eircom.net,085 807 1652,"Honours Bachelor Degree in Hospitality Management, Trinity College Dublin (2018)
+Honours Bachelor Degree in Arts, Dundalk Institute of Technology (2023)","Honours Bachelor Degree in Hospitality Management, Trinity College Dublin (2018)
+Honours Bachelor Degree in Arts, Dundalk Institute of Technology (2023)",6,"mcdonald's, customer service, restaurant, hospitality, kitchen, team member",True,Irish_CV_020.pdf
+Roisin O'Neill,neill@outlook.com,085 667 0338,"Advanced Certificate in Food Science, Galway-Mayo Institute of Technology (2020)","Advanced Certificate in Food Science, Galway-Mayo Institute of Technology (2020)",2,"kitchen, team member",True,Irish_CV_034.pdf
+Grace Nolan,gracenolan@hotmail.com,087 361 2496,"Master of Science in Sociology, Maynooth University (2020)
+PhD in Human Resources, University of Limerick (2020)","• teamwork
+• food safety
+• health and safety
+• HACCP
+• food presentation
+• cooking
+• scheduling
+• inventory management
+• Google Workspace
+• Team Leadership
+• Event Planning
+• Fluent English
+REFERENCES
+References available upon request",7,"cook, fast food, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_018.pdf
+Lucy O'Farrell,farrell.lucy@eircom.net,086 355 3105,"Master of Arts in Finance, Institute of Technology Sligo (2020)","Master of Arts in Finance, Institute of Technology Sligo (2020)",4,"customer service, restaurant, food preparation, drive-thru",True,Irish_CV_030.pdf
+Roisin Kelly,rkelly@icloud.com,086 911 7276,"Bachelor of Engineering in Mathematics, Limerick Institute of Technology (Currently studying)","Bachelor of Engineering in Mathematics, Limerick Institute of Technology (Currently studying)",7,"fast food, mcdonald's, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_024.pdf
+Oisin Clarke,oisinclarke@icloud.com,089 341 7891,"Higher Diploma in Languages, Griffith College Dublin (2017)","Higher Diploma in Languages, Griffith College Dublin (2017)",3,"cook, kitchen, food preparation",True,Irish_CV_025.pdf
+Darragh Collins,dcollins@outlook.com,086 874 1848,"Honours Bachelor Degree in Hospitality Management, University College Cork (2021)
+Master of Science in Arts, Letterkenny Institute of Technology (2023)","Honours Bachelor Degree in Hospitality Management, University College Cork (2021)
+Master of Science in Arts, Letterkenny Institute of Technology (2023)",5,"cook, customer service, hospitality, kitchen, kfc",True,Irish_CV_031.pdf
+Oisin Boyle,oisin.boyle@outlook.com,085 474 3953,"Ordinary Bachelor Degree in Marketing, Cork Institute of Technology (2019)
+Master of Business Administration in Tourism, National College of Ireland (Currently studying)","• inventory management
+• food preparation
+• allergen awareness
+• food safety
+• quality control
+• POS systems
+• teamwork
+• kitchen experience
+• communication
+• fast-paced environment
+• Marketing
+• Customer Relationship Management",7,"cook, fast food, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_019.pdf
+Liam Quinn,lquinn@outlook.com,089 242 2610,"Honours Bachelor Degree in Mathematics, Cork Institute of Technology (2019)
+Master of Arts in Human Resources, Institute of Technology Sligo (2017)","• stock rotation
+• cleaning
+• baking
+• health and safety
+• customer service
+• multitasking
+• Basic Irish
+• Customer Relationship Management
+• Fluent English",4,"customer service, kitchen, server, food preparation",True,Irish_CV_027.pdf
+Seamus Duffy,duffy.seamus@yahoo.com,083 208 7029,"Higher Certificate in Mathematics, Galway-Mayo Institute of Technology (Currently studying)
+PhD in Languages, University College Dublin (2017)","Higher Certificate in Mathematics, Galway-Mayo Institute of Technology (Currently studying)
+PhD in Languages, University College Dublin (2017)",4,"fast food, customer service, kitchen, food preparation",True,Irish_CV_033.pdf
+Daniel O'Brien,brien@icloud.com,083 860 9822,"Bachelor of Engineering in Business, Technological University Dublin (2018)
+Advanced Certificate in Human Resources, Dublin Institute of Technology (Currently studying)","Bachelor of Engineering in Business, Technological University Dublin (2018)
+Advanced Certificate in Human Resources, Dublin Institute of Technology (Currently studying)",6,"cook, fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_032.pdf
+Sean McLoughlin,mcloughlin.sean@yahoo.com,085 996 1399,"Master of Science in Business, University College Cork (Currently studying)
+Advanced Certificate in English, National College of Ireland (2018)","Master of Science in Business, University College Cork (Currently studying)
+Advanced Certificate in English, National College of Ireland (2018)",2,"cook, kitchen",True,Irish_CV_026.pdf
+Orla Brennan,brennan.orla@hotmail.com,087 194 6147,"PhD in Mathematics, Dublin City University (2020)","PhD in Mathematics, Dublin City University (2020)",3,"kitchen, team member, drive-thru",True,Irish_CV_082.pdf
+Saoirse O'Connell,saoirseo@eircom.net,089 231 2767,"Bachelor of Science in Culinary Arts, National University of Ireland, Galway (2019)","Bachelor of Science in Culinary Arts, National University of Ireland, Galway (2019)",7,"cook, fast food, customer service, cashier, kitchen, team member, food preparation",True,Irish_CV_096.pdf
+Emily Murphy,murphy.emily@eircom.net,083 573 4107,"Bachelor of Science in Tourism, Cork Institute of Technology (2017)","Bachelor of Science in Tourism, Cork Institute of Technology (2017)",5,"customer service, restaurant, kitchen, food preparation, kfc",True,Irish_CV_041.pdf
+Ava Nolan,ava.nolan@eircom.net,085 399 3734,"Higher Certificate in Languages, Institute of Technology Carlow (2019)
+Bachelor of Science in Mathematics, University of Limerick (2016)","Higher Certificate in Languages, Institute of Technology Carlow (2019)
+Bachelor of Science in Mathematics, University of Limerick (2016)",3,"customer service, food preparation, kfc",True,Irish_CV_055.pdf
+Ciara Connolly,cconnolly@outlook.com,083 590 0276,"Bachelor of Arts in Accounting, University College Cork (2018)","Bachelor of Arts in Accounting, University College Cork (2018)",6,"fast food, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_069.pdf
+Aisling Moore,aislingmoore@eircom.net,087 006 6714,"Advanced Certificate in Hotel Management, Griffith College Dublin (2024)","Advanced Certificate in Hotel Management, Griffith College Dublin (2024)",2,"kitchen, food preparation",True,Irish_CV_068.pdf
+Amelia Moran,amelia.moran@yahoo.com,086 392 6242,"Higher Diploma in Psychology, University College Dublin (2019)","Higher Diploma in Psychology, University College Dublin (2019)",3,"customer service, kitchen, food preparation",True,Irish_CV_054.pdf
+Caoimhe McLoughlin,cmcloughlin@eircom.net,087 297 4805,"Advanced Certificate in English, University of Limerick (2023)
+Bachelor of Commerce in Computer Science, Galway-Mayo Institute of Technology (2015)","Advanced Certificate in English, University of Limerick (2023)
+Bachelor of Commerce in Computer Science, Galway-Mayo Institute of Technology (2015)",1,kitchen,False,Irish_CV_040.pdf
+Ryan Collins,ryancollins@icloud.com,086 269 4314,"Bachelor of Business Studies in Food Science, Limerick Institute of Technology (2018)
+Leaving Certificate in Sociology, Dublin City University (2024)","Bachelor of Business Studies in Food Science, Limerick Institute of Technology (2018)
+Leaving Certificate in Sociology, Dublin City University (2024)",6,"fast food, customer service, kitchen, shift manager, food preparation, drive-thru",True,Irish_CV_097.pdf
+Cathal Quinn,quinn.cathal@outlook.com,083 071 2802,"Bachelor of Arts in Communications, Dundalk Institute of Technology (Currently studying)
+Higher Certificate in Hotel Management, Trinity College Dublin (2021)","• cash handling
+• teamwork
+• allergen awareness
+• conflict resolution
+• multitasking
+• POS systems
+• communication
+• problem-solving
+• Customer Relationship Management
+• Sales
+• Team Leadership
+REFERENCES
+References available upon request",3,"customer service, kitchen, food preparation",True,Irish_CV_083.pdf
+Conor O'Brien,brien@yahoo.com,083 326 8146,"Bachelor of Science in Human Resources, Trinity College Dublin (2016)","Bachelor of Science in Human Resources, Trinity College Dublin (2016)",6,"cook, fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_095.pdf
+Finn Clarke,finn.clarke@gmail.com,087 307 3291,"Master of Business Administration in Communications, Institute of Technology Sligo (2020)","Master of Business Administration in Communications, Institute of Technology Sligo (2020)",5,"fast food, customer service, kitchen, shift manager, food preparation",True,Irish_CV_081.pdf
+James Healy,jhealy@hotmail.com,083 923 0198,"PhD in English, Dublin Business School (Currently studying)
+Higher Certificate in Hotel Management, University of Limerick (2017)","PhD in English, Dublin Business School (Currently studying)
+Higher Certificate in Hotel Management, University of Limerick (2017)",1,team member,False,Irish_CV_056.pdf
+Emma Moran,emoran@icloud.com,087 048 6316,"Bachelor of Business Studies in Psychology, Limerick Institute of Technology (2022)","Bachelor of Business Studies in Psychology, Limerick Institute of Technology (2022)",4,"burger king, customer service, team member, food preparation",True,Irish_CV_042.pdf
+Emily Lynch,lynch.emily@hotmail.com,086 847 6470,"Ordinary Bachelor Degree in Hospitality Management, Letterkenny Institute of Technology (2015)
+Master of Science in Mathematics, Dundalk Institute of Technology (2022)","Ordinary Bachelor Degree in Hospitality Management, Letterkenny Institute of Technology (2015)
+Master of Science in Mathematics, Dundalk Institute of Technology (2022)",3,"customer service, hospitality, kitchen",True,Irish_CV_043.pdf
+Fionn Collins,collins.fionn@gmail.com,086 233 1074,"Bachelor of Commerce in Languages, Griffith College Dublin (2015)","Bachelor of Commerce in Languages, Griffith College Dublin (2015)",6,"cook, restaurant, kitchen, team member, drive-thru, kfc",True,Irish_CV_057.pdf
+Oisin Murray,oisinm@icloud.com,085 331 2650,"Bachelor of Commerce in Accounting, Maynooth University (2020)
+Higher Certificate in Finance, Letterkenny Institute of Technology (2024)","Bachelor of Commerce in Accounting, Maynooth University (2020)
+Higher Certificate in Finance, Letterkenny Institute of Technology (2024)",6,"fast food, customer service, kitchen, server, team member, food preparation",True,Irish_CV_080.pdf
+Amelia Doherty,ameliadoherty@hotmail.com,089 079 3910,"Higher Diploma in Human Resources, Dublin City University (2023)","Higher Diploma in Human Resources, Dublin City University (2023)",3,"cook, team member, food preparation",True,Irish_CV_094.pdf
+Cillian O'Farrell,cilliano@hotmail.com,083 254 8476,"PhD in Information Technology, Galway-Mayo Institute of Technology (2018)","PhD in Information Technology, Galway-Mayo Institute of Technology (2018)",4,"fast food, customer service, kitchen, food preparation",True,Irish_CV_090.pdf
+Ryan Murray,rmurray@hotmail.com,089 230 6564,"Honours Bachelor Degree in Nutrition, University College Cork (2018)","Honours Bachelor Degree in Nutrition, University College Cork (2018)",4,"cook, kitchen, team member, shift manager",True,Irish_CV_084.pdf
+Ciara Fitzgerald,ciarafitzgerald@eircom.net,089 739 1027,"Master of Business Administration in Business, University of Limerick (2020)","Master of Business Administration in Business, University of Limerick (2020)",3,"cook, team member, food preparation",True,Irish_CV_053.pdf
+James O'Neill,neill@eircom.net,089 100 4203,"Honours Bachelor Degree in Sociology, Griffith College Dublin (2021)","• time management
+• conflict resolution
+• HACCP
+• upselling
+• fast-paced environment
+• teamwork
+• communication
+• Basic Irish
+• Microsoft Office
+• Google Workspace
+• Social Media
+REFERENCES
+References available upon request",7,"fast food, mcdonald's, customer service, kitchen, team member, shift manager, food preparation",True,Irish_CV_047.pdf
+Seamus McLoughlin,smcloughlin@gmail.com,085 224 8700,"Bachelor of Engineering in Languages, Dublin Institute of Technology (2024)","• upselling
+• stock rotation
+• time management
+• first aid
+• kitchen experience
+• allergen awareness
+• food hygiene
+• HACCP
+• fast-paced environment
+• Marketing
+• Microsoft Office",5,"fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_046.pdf
+Aoife McLoughlin,amcloughlin@eircom.net,086 717 7641,"Bachelor of Science in Hotel Management, Griffith College Dublin (Currently studying)","Bachelor of Science in Hotel Management, Griffith College Dublin (Currently studying)",5,"cook, fast food, customer service, kitchen, food preparation",True,Irish_CV_052.pdf
+Liam Quinn,lquinn@outlook.com,086 367 7675,"Ordinary Bachelor Degree in Human Resources, Waterford Institute of Technology (2019)
+Leaving Certificate in Computer Science, Griffith College Dublin (2016)","Ordinary Bachelor Degree in Human Resources, Waterford Institute of Technology (2019)
+Leaving Certificate in Computer Science, Griffith College Dublin (2016)",3,"kitchen, team member, shift manager",True,Irish_CV_085.pdf
+Jack McLoughlin,jackm@outlook.com,087 591 6173,"PhD in Business, Dublin Institute of Technology (Currently studying)
+Higher Diploma in Mathematics, University College Cork (2018)","PhD in Business, Dublin Institute of Technology (Currently studying)
+Higher Diploma in Mathematics, University College Cork (2018)",2,"kitchen, food preparation",True,Irish_CV_091.pdf
+Orla Murphy,omurphy@eircom.net,089 981 3935,"Ordinary Bachelor Degree in Human Resources, University College Dublin (2022)","• food presentation
+• health and safety
+• fast-paced environment
+• multitasking
+• allergen awareness
+• food safety
+• problem-solving
+• menu knowledge
+• inventory management
+• scheduling
+• Team Leadership
+• Fluent English
+• Basic Irish
+• Social Media
+REFERENCES
+References available upon request",6,"cook, customer service, kitchen, team member, food preparation, kfc",True,Irish_CV_087.pdf
+Jack O'Doherty,doherty@yahoo.com,087 414 7695,"Master of Science in Mathematics, Dublin Institute of Technology (Currently studying)","Master of Science in Mathematics, Dublin Institute of Technology (Currently studying)",6,"cook, fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_093.pdf
+Patrick O'Connell,connell@yahoo.com,086 353 7429,"Higher Certificate in Mathematics, Limerick Institute of Technology (Currently studying)
+Bachelor of Arts in Marketing, Dublin Institute of Technology (2018)","Higher Certificate in Mathematics, Limerick Institute of Technology (Currently studying)
+Bachelor of Arts in Marketing, Dublin Institute of Technology (2018)",6,"cook, fast food, burger king, customer service, kitchen, food preparation",True,Irish_CV_078.pdf
+Orla Hughes,orlah@gmail.com,086 813 0700,"Leaving Certificate in English, National University of Ireland, Galway (2018)","Leaving Certificate in English, National University of Ireland, Galway (2018)",3,"cook, mcdonald's, team member",True,Irish_CV_044.pdf
+Emily Doherty,emilydoherty@eircom.net,085 342 3827,"Ordinary Bachelor Degree in Communications, Letterkenny Institute of Technology (Currently studying)
+Honours Bachelor Degree in Hotel Management, Dublin City University (2017)","• HACCP
+• customer service
+• health and safety
+• food hygiene
+• fast-paced environment
+• multitasking
+• Event Planning
+• Team Leadership
+• Social Media
+• Basic Irish
+REFERENCES
+References available upon request",6,"fast food, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_050.pdf
+James Lynch,jamesl@yahoo.com,089 746 4018,"Bachelor of Arts in Computer Science, University College Dublin (2017)","Bachelor of Arts in Computer Science, University College Dublin (2017)",2,"kitchen, food preparation",True,Irish_CV_051.pdf
+Emily Healy,healy.emily@outlook.com,089 273 5686,"Bachelor of Commerce in Computer Science, National University of Ireland, Galway (2016)","• menu knowledge
+• food safety
+• teamwork
+• fast-paced environment
+• customer service
+• food preparation
+• time management
+• food hygiene
+• HACCP
+• problem-solving
+• Event Planning
+• Sales
+• Social Media
+REFERENCES
+References available upon request",6,"fast food, customer service, kitchen, server, food preparation, drive-thru",True,Irish_CV_045.pdf
+Cillian Lynch,cillianl@hotmail.com,086 360 2056,"Higher Diploma in Tourism, National University of Ireland, Galway (2018)","Higher Diploma in Tourism, National University of Ireland, Galway (2018)",2,"cook, customer service",True,Irish_CV_079.pdf
+Ella Smith,smith.ella@hotmail.com,086 016 2123,"Master of Business Administration in Psychology, Trinity College Dublin (2024)","Master of Business Administration in Psychology, Trinity College Dublin (2024)",5,"fast food, customer service, kitchen, server, food preparation",True,Irish_CV_092.pdf
+Sarah Quinn,sarah.quinn@outlook.com,083 457 4119,"Higher Certificate in Business, Waterford Institute of Technology (2015)
+Master of Science in Information Technology, Waterford Institute of Technology (2023)","Higher Certificate in Business, Waterford Institute of Technology (2015)
+Master of Science in Information Technology, Waterford Institute of Technology (2023)",5,"cook, fast food, customer service, kitchen, food preparation",True,Irish_CV_086.pdf
+Conor Connolly,conorc@yahoo.com,087 179 9533,"Bachelor of Commerce in Computer Science, National College of Ireland (2019)
+Bachelor of Engineering in Languages, Dublin City University (2022)","Bachelor of Commerce in Computer Science, National College of Ireland (2019)
+Bachelor of Engineering in Languages, Dublin City University (2022)",2,"customer service, kitchen",True,Irish_CV_060.pdf
+Eoin Quinn,equinn@yahoo.com,089 355 5625,"Higher Diploma in Languages, National College of Ireland (2023)
+PhD in English, Waterford Institute of Technology (2019)","Higher Diploma in Languages, National College of Ireland (2023)
+PhD in English, Waterford Institute of Technology (2019)",6,"cook, fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_074.pdf
+Liam O'Reilly,reilly@yahoo.com,085 767 7002,"Bachelor of Science in Sociology, Trinity College Dublin (2023)","Bachelor of Science in Sociology, Trinity College Dublin (2023)",5,"cook, cashier, kitchen, server, team member",True,Irish_CV_048.pdf
+James O'Connor,connor@yahoo.com,087 835 8128,"Bachelor of Engineering in Communications, Letterkenny Institute of Technology (2017)
+Bachelor of Arts in English, Institute of Technology Carlow (2021)","• food preparation
+• conflict resolution
+• cooking
+• menu knowledge
+• allergen awareness
+• order taking
+• food hygiene
+• inventory management
+• teamwork
+• Google Workspace
+• Marketing
+• Fluent English
+• Social Media",7,"cook, fast food, customer service, cashier, kitchen, shift manager, food preparation",True,Irish_CV_049.pdf
+Niamh Quinn,nquinn@gmail.com,086 113 4218,"Bachelor of Business Studies in Computer Science, Institute of Technology Carlow (2019)
+Master of Arts in Finance, Galway-Mayo Institute of Technology (2019)","Bachelor of Business Studies in Computer Science, Institute of Technology Carlow (2019)
+Master of Arts in Finance, Galway-Mayo Institute of Technology (2019)",3,"cook, kitchen, team member",True,Irish_CV_075.pdf
+Aisling Brennan,abrennan@yahoo.com,087 231 9570,"Honours Bachelor Degree in Languages, University College Dublin (Currently studying)
+Bachelor of Science in Psychology, University of Limerick (2018)","Honours Bachelor Degree in Languages, University College Dublin (Currently studying)
+Bachelor of Science in Psychology, University of Limerick (2018)",4,"kitchen, server, team member, shift manager",True,Irish_CV_061.pdf
+Cillian Smith,cillians@outlook.com,086 761 6800,"Bachelor of Business Studies in Human Resources, Cork Institute of Technology (2024)","Bachelor of Business Studies in Human Resources, Cork Institute of Technology (2024)",5,"cook, restaurant, kitchen, team member, kfc",True,Irish_CV_088.pdf
+Orla O'Connor,connor.orla@yahoo.com,087 287 6552,"Higher Certificate in Languages, Dublin City University (2015)","Higher Certificate in Languages, Dublin City University (2015)",3,"server, team member, food preparation",True,Irish_CV_077.pdf
+Emma Johnston,emma.johnston@yahoo.com,087 292 8243,"Higher Certificate in Information Technology, Institute of Technology Sligo (2024)","Higher Certificate in Information Technology, Institute of Technology Sligo (2024)",6,"cook, mcdonald's, customer service, kitchen, team member, shift manager",True,Irish_CV_063.pdf
+Eimear O'Brien,brien@gmail.com,086 986 2113,"Honours Bachelor Degree in Computer Science, Dublin City University (2019)
+Bachelor of Science in Food Science, University College Dublin (2016)","Honours Bachelor Degree in Computer Science, Dublin City University (2019)
+Bachelor of Science in Food Science, University College Dublin (2016)",2,"customer service, kitchen",True,Irish_CV_062.pdf
+Grace Nolan,gnolan@yahoo.com,089 398 0673,"Bachelor of Commerce in Culinary Arts, University of Limerick (2022)","Bachelor of Commerce in Culinary Arts, University of Limerick (2022)",1,team member,False,Irish_CV_076.pdf
+Ava Gallagher,agallagher@gmail.com,083 637 8172,"Bachelor of Arts in Computer Science, Maynooth University (2020)","Bachelor of Arts in Computer Science, Maynooth University (2020)",2,"customer service, restaurant",True,Irish_CV_089.pdf
+James Doyle,jamesdoyle@hotmail.com,085 396 7035,"Ordinary Bachelor Degree in Arts, Dublin City University (2018)
+Bachelor of Arts in Languages, National College of Ireland (2018)","Ordinary Bachelor Degree in Arts, Dublin City University (2018)
+Bachelor of Arts in Languages, National College of Ireland (2018)",5,"fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_099.pdf
+Liam O'Connor,connor@hotmail.com,089 236 3699,"Higher Diploma in Hotel Management, Griffith College Dublin (2017)
+PhD in Psychology, Dundalk Institute of Technology (2020)","• health and safety
+• customer service
+• stock rotation
+• cash handling
+• cleaning
+• Google Workspace
+• Social Media
+• Event Planning
+REFERENCES
+References available upon request",7,"fast food, mcdonald's, customer service, cashier, kitchen, team member, food preparation",True,Irish_CV_072.pdf
+Orla McLoughlin,omcloughlin@outlook.com,086 447 6627,"Ordinary Bachelor Degree in Business, University College Dublin (2019)
+PhD in Psychology, Waterford Institute of Technology (2022)","Ordinary Bachelor Degree in Business, University College Dublin (2019)
+PhD in Psychology, Waterford Institute of Technology (2022)",5,"fast food, customer service, kitchen, food preparation, drive-thru",True,Irish_CV_066.pdf
+Noah Fitzgerald,nfitzgerald@yahoo.com,089 282 4512,"Bachelor of Arts in Mathematics, Cork Institute of Technology (Currently studying)","Bachelor of Arts in Mathematics, Cork Institute of Technology (Currently studying)",7,"cook, fast food, customer service, kitchen, team member, shift manager, food preparation",True,Irish_CV_067.pdf
+Sean Collins,sean.collins@eircom.net,083 519 8238,"Ordinary Bachelor Degree in Computer Science, Dublin Business School (2019)
+Advanced Certificate in Finance, Technological University Dublin (2020)","Ordinary Bachelor Degree in Computer Science, Dublin Business School (2019)
+Advanced Certificate in Finance, Technological University Dublin (2020)",6,"fast food, mcdonald's, customer service, kitchen, team member, food preparation",True,Irish_CV_073.pdf
+Sean McLoughlin,smcloughlin@gmail.com,087 507 8739,"Master of Business Administration in Human Resources, Dublin City University (2018)
+Leaving Certificate in Tourism, National University of Ireland, Galway (Currently studying)","Master of Business Administration in Human Resources, Dublin City University (2018)
+Leaving Certificate in Tourism, National University of Ireland, Galway (Currently studying)",2,"kitchen, food preparation",True,Irish_CV_098.pdf
+Ciara Clarke,ciarac@eircom.net,087 106 1987,"Higher Diploma in Tourism, University College Cork (2024)
+Honours Bachelor Degree in Marketing, University College Cork (2017)","Higher Diploma in Tourism, University College Cork (2024)
+Honours Bachelor Degree in Marketing, University College Cork (2017)",2,"cook, kitchen",True,Irish_CV_059.pdf
+Aoife Murray,aoifem@hotmail.com,089 151 1217,"Honours Bachelor Degree in English, Trinity College Dublin (2015)
+Ordinary Bachelor Degree in Arts, Maynooth University (2022)","Honours Bachelor Degree in English, Trinity College Dublin (2015)
+Ordinary Bachelor Degree in Arts, Maynooth University (2022)",5,"fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_065.pdf
+Siobhan McLoughlin,siobhanmcloughlin@gmail.com,083 230 6804,"Higher Certificate in Tourism, University of Limerick (Currently studying)
+PhD in Culinary Arts, Dundalk Institute of Technology (2019)","Higher Certificate in Tourism, University of Limerick (Currently studying)
+PhD in Culinary Arts, Dundalk Institute of Technology (2019)",1,server,False,Irish_CV_071.pdf
+Orla Moran,orla.moran@gmail.com,085 831 8020,"Bachelor of Science in Computer Science, University of Limerick (Currently studying)","Bachelor of Science in Computer Science, University of Limerick (Currently studying)",7,"fast food, mcdonald's, customer service, kitchen, server, team member, food preparation",True,Irish_CV_070.pdf
+Emily Kelly,emily.kelly@icloud.com,089 423 9535,"Bachelor of Commerce in Communications, Dublin Business School (2015)
+Master of Business Administration in Information Technology, Maynooth University (2015)","Bachelor of Commerce in Communications, Dublin Business School (2015)
+Master of Business Administration in Information Technology, Maynooth University (2015)",4,"mcdonald's, kitchen, food preparation, drive-thru",True,Irish_CV_064.pdf
+Sophie McLoughlin,sophiemcloughlin@hotmail.com,085 658 6783,"Master of Science in Accounting, University College Cork (2019)
+Bachelor of Science in Information Technology, Cork Institute of Technology (2020)","Master of Science in Accounting, University College Cork (2019)
+Bachelor of Science in Information Technology, Cork Institute of Technology (2020)",1,kfc,False,Irish_CV_058.pdf
+Cillian Moore,cillian.moore@eircom.net,083 284 3547,"Master of Arts in Accounting, Galway-Mayo Institute of Technology (Currently studying)","Master of Arts in Accounting, Galway-Mayo Institute of Technology (Currently studying)",2,"kitchen, team member",True,Irish_CV_003.pdf
+Sean Collins,collins.sean@eircom.net,086 818 2447,"Higher Certificate in Food Science, National College of Ireland (2019)","Higher Certificate in Food Science, National College of Ireland (2019)",2,"cook, team member",True,Irish_CV_017.pdf
+Noah Boyle,noah.boyle@eircom.net,089 934 9877,"Bachelor of Commerce in Information Technology, Technological University Dublin (2019)
+Bachelor of Engineering in Tourism, University College Cork (2016)","Bachelor of Commerce in Information Technology, Technological University Dublin (2019)
+Bachelor of Engineering in Tourism, University College Cork (2016)",5,"fast food, customer service, kitchen, shift manager, food preparation",True,Irish_CV_016.pdf
+Grace McCarthy,gmccarthy@gmail.com,087 300 1371,"Master of Arts in Computer Science, Griffith College Dublin (2020)","Master of Arts in Computer Science, Griffith College Dublin (2020)",1,food preparation,False,Irish_CV_002.pdf
+Aisling Connolly,aislingc@outlook.com,083 732 7916,"Advanced Certificate in Psychology, Waterford Institute of Technology (Currently studying)
+Bachelor of Commerce in Tourism, Institute of Technology Sligo (2022)","Advanced Certificate in Psychology, Waterford Institute of Technology (Currently studying)
+Bachelor of Commerce in Tourism, Institute of Technology Sligo (2022)",5,"fast food, customer service, kitchen, team member, food preparation",True,Irish_CV_014.pdf
+Ava Doherty,avadoherty@yahoo.com,087 341 6789,"Master of Arts in Arts, National University of Ireland, Galway (Currently studying)","Master of Arts in Arts, National University of Ireland, Galway (Currently studying)",6,"cook, fast food, mcdonald's, customer service, kitchen, food preparation",True,Irish_CV_028.pdf
+Sarah O'Doherty,doherty@yahoo.com,089 397 9621,"Master of Science in Food Science, University College Dublin (2016)","• cooking
+• food safety
+• multitasking
+• inventory management
+• teamwork
+• stock rotation
+• cleaning
+• cash handling
+• food presentation
+• fast-paced environment
+• Team Leadership
+• Sales
+• Social Media
+REFERENCES
+References available upon request",9,"cook, fast food, customer service, restaurant, kitchen, server, team member, food preparation, kfc",True,Irish_CV_029.pdf
+Seamus Nolan,seamusnolan@outlook.com,083 249 1298,"Higher Diploma in Marketing, Institute of Technology Sligo (2023)
+Bachelor of Science in Human Resources, Limerick Institute of Technology (2024)","Higher Diploma in Marketing, Institute of Technology Sligo (2023)
+Bachelor of Science in Human Resources, Limerick Institute of Technology (2024)",4,"cook, kitchen, team member, food preparation",True,Irish_CV_001.pdf
+Sarah Collins,collins.sarah@yahoo.com,087 087 7345,"Higher Certificate in Information Technology, Dublin Institute of Technology (Currently studying)","• problem-solving
+• customer service
+• teamwork
+• food preparation
+• health and safety
+• stock rotation
+• communication
+• order taking
+• first aid
+• HACCP
+• Fluent English
+• Sales
+• Google Workspace
+• Team Leadership
+REFERENCES
+References available upon request",6,"cook, fast food, customer service, restaurant, kitchen, food preparation",True,Irish_CV_015.pdf
+Emily Fitzgerald,emilyfitzgerald@outlook.com,089 157 9965,"Master of Arts in Culinary Arts, Trinity College Dublin (2015)
+Higher Diploma in English, Galway-Mayo Institute of Technology (2022)","Master of Arts in Culinary Arts, Trinity College Dublin (2015)
+Higher Diploma in English, Galway-Mayo Institute of Technology (2022)",1,team member,False,Irish_CV_039.pdf
+Tadhg O'Sullivan,sullivan@yahoo.com,087 067 1761,"Bachelor of Commerce in Languages, Limerick Institute of Technology (2018)","Bachelor of Commerce in Languages, Limerick Institute of Technology (2018)",1,cook,False,Irish_CV_011.pdf
+Darragh Brennan,darragh.brennan@outlook.com,087 799 0857,"Bachelor of Engineering in Marketing, Dublin Business School (2021)","Bachelor of Engineering in Marketing, Dublin Business School (2021)",4,"customer service, team member, food preparation, drive-thru",True,Irish_CV_005.pdf
+Declan Healy,declanh@eircom.net,087 944 0737,"PhD in Psychology, Dundalk Institute of Technology (2021)","PhD in Psychology, Dundalk Institute of Technology (2021)",3,"cook, customer service, kitchen",True,Irish_CV_004.pdf
+Amelia O'Connor,connor@gmail.com,085 213 8558,"Leaving Certificate in Computer Science, Technological University Dublin (2018)","Leaving Certificate in Computer Science, Technological University Dublin (2018)",2,"kitchen, team member",True,Irish_CV_010.pdf
+Fionn O'Sullivan,fionno@icloud.com,087 158 4804,"Bachelor of Science in Business, University College Cork (2022)
+Master of Science in Human Resources, Letterkenny Institute of Technology (Currently studying)","Bachelor of Science in Business, University College Cork (2022)
+Master of Science in Human Resources, Letterkenny Institute of Technology (Currently studying)",3,"restaurant, kitchen, food preparation",True,Irish_CV_038.pdf
+Sophie Ryan,sophier@eircom.net,087 753 9788,"Master of Science in Business, Letterkenny Institute of Technology (2019)","Master of Science in Business, Letterkenny Institute of Technology (2019)",7,"cook, fast food, customer service, kitchen, team member, food preparation, drive-thru",True,Irish_CV_006.pdf
+Cillian O'Farrell,farrell@icloud.com,086 397 7249,"Bachelor of Commerce in English, National College of Ireland (2018)
+Master of Business Administration in Culinary Arts, Limerick Institute of Technology (2020)","• first aid
+• quality control
+• baking
+• time management
+• teamwork
+• Social Media
+• Fluent English
+REFERENCES
+References available upon request",7,"fast food, customer service, kitchen, server, team member, shift manager, food preparation",True,Irish_CV_012.pdf
+Seamus Burke,sburke@icloud.com,083 634 3352,"Higher Diploma in English, Institute of Technology Sligo (2020)","Higher Diploma in English, Institute of Technology Sligo (2020)",1,server,False,Irish_CV_013.pdf
+Chloe Duffy,duffy.chloe@icloud.com,086 453 3775,"Honours Bachelor Degree in Communications, National University of Ireland, Galway (2017)
+Master of Arts in Nutrition, Trinity College Dublin (2019)","Honours Bachelor Degree in Communications, National University of Ireland, Galway (2017)
+Master of Arts in Nutrition, Trinity College Dublin (2019)",2,"cashier, kitchen",True,Irish_CV_007.pdf

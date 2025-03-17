@@ -1,0 +1,1414 @@
+2025-03-13 12:03:01,409 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-13 12:03:01,409 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-13 12:03:01,409 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-13 12:03:01,409 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-13 12:03:01,410 - ResumeScreening - INFO - Found 13 PDF files to process
+2025-03-13 12:03:01,410 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_4.pdf
+2025-03-13 12:03:01,418 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_4.pdf: Ryan Kelly, ryan.kelly@gmail.com, Keywords: 2
+2025-03-13 12:03:01,418 - ResumeScreening - INFO - Moved CV_4.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,418 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_5.pdf
+2025-03-13 12:03:01,420 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_5.pdf: James O'Brien, james.obrien@gmail.com, Keywords: 3
+2025-03-13 12:03:01,420 - ResumeScreening - INFO - Moved CV_5.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,420 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_7.pdf
+2025-03-13 12:03:01,422 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_7.pdf: Michael Murphy, michael.murphy@gmail.com, Keywords: 1
+2025-03-13 12:03:01,422 - ResumeScreening - INFO - Moved CV_7.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,422 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_6.pdf
+2025-03-13 12:03:01,424 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_6.pdf: Emma Walsh, emma.walsh@gmail.com, Keywords: 2
+2025-03-13 12:03:01,424 - ResumeScreening - INFO - Moved CV_6.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,424 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_2.pdf
+2025-03-13 12:03:01,427 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_2.pdf: Emma Walsh, emma.walsh@gmail.com, Keywords: 2
+2025-03-13 12:03:01,427 - ResumeScreening - INFO - Moved CV_2.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,427 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_3.pdf
+2025-03-13 12:03:01,430 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_3.pdf: Olivia Fitzgerald, olivia.fitzgerald@gmail.com, Keywords: 3
+2025-03-13 12:03:01,430 - ResumeScreening - INFO - Moved CV_3.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,430 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_1.pdf
+2025-03-13 12:03:01,432 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_1.pdf: Emily O'Connor, emily.oconnor@gmail.com, Keywords: 1
+2025-03-13 12:03:01,433 - ResumeScreening - INFO - Moved CV_1.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,433 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_10.pdf
+2025-03-13 12:03:01,435 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_10.pdf: Ryan Kelly, ryan.kelly@gmail.com, Keywords: 1
+2025-03-13 12:03:01,435 - ResumeScreening - INFO - Moved CV_10.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,435 - ResumeScreening - INFO - Processing resume: ./input_cv/sample_resume1.pdf
+2025-03-13 12:03:01,439 - ResumeScreening - INFO - Extracted data from ./input_cv/sample_resume1.pdf: John Smith, john.smith@example.com, Keywords: 9
+2025-03-13 12:03:01,440 - ResumeScreening - INFO - Moved sample_resume1.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,440 - ResumeScreening - INFO - Processing resume: ./input_cv/sample_resume2.pdf
+2025-03-13 12:03:01,442 - ResumeScreening - INFO - Extracted data from ./input_cv/sample_resume2.pdf: Sarah Johnson, sarah.johnson@example.com, Keywords: 9
+2025-03-13 12:03:01,443 - ResumeScreening - INFO - Moved sample_resume2.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,443 - ResumeScreening - INFO - Processing resume: ./input_cv/sample_resume3.pdf
+2025-03-13 12:03:01,446 - ResumeScreening - INFO - Extracted data from ./input_cv/sample_resume3.pdf: Michael Brown, michael.brown@example.com, Keywords: 0
+2025-03-13 12:03:01,446 - ResumeScreening - INFO - Moved sample_resume3.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,446 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_8.pdf
+2025-03-13 12:03:01,448 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_8.pdf: Ryan Kelly, ryan.kelly@gmail.com, Keywords: 1
+2025-03-13 12:03:01,448 - ResumeScreening - INFO - Moved CV_8.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,448 - ResumeScreening - INFO - Processing resume: ./input_cv/CV_9.pdf
+2025-03-13 12:03:01,450 - ResumeScreening - INFO - Extracted data from ./input_cv/CV_9.pdf: Isabella Nolan, isabella.nolan@gmail.com, Keywords: 2
+2025-03-13 12:03:01,450 - ResumeScreening - INFO - Moved CV_9.pdf to ./input_cv/processed/
+2025-03-13 12:03:01,452 - ResumeScreening - INFO - Saved extracted resume data to ./output/extracted_resumes.csv
+2025-03-13 12:03:01,453 - ResumeScreening - INFO - Found 8 relevant candidates
+2025-03-13 12:03:01,453 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ryan.kelly@gmail.com
+2025-03-13 12:03:01,453 - ResumeScreening - INFO - [SIMULATION] Survey email sent to james.obrien@gmail.com
+2025-03-13 12:03:01,453 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emma.walsh@gmail.com
+2025-03-13 12:03:01,453 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emma.walsh@gmail.com
+2025-03-13 12:03:01,454 - ResumeScreening - INFO - [SIMULATION] Survey email sent to olivia.fitzgerald@gmail.com
+2025-03-13 12:03:01,454 - ResumeScreening - INFO - [SIMULATION] Survey email sent to john.smith@example.com
+2025-03-13 12:03:01,454 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sarah.johnson@example.com
+2025-03-13 12:03:01,454 - ResumeScreening - INFO - [SIMULATION] Survey email sent to isabella.nolan@gmail.com
+2025-03-13 12:03:01,455 - ResumeScreening - INFO - Loaded 10 survey responses
+2025-03-13 12:03:01,457 - ResumeScreening - INFO - Saved classified candidates to ./output/output_candidates.csv
+2025-03-13 12:03:01,457 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ryan.kelly@gmail.com (Priority: Low)
+2025-03-13 12:03:01,457 - ResumeScreening - INFO - [SIMULATION] Interview email sent to james.obrien@gmail.com (Priority: Medium)
+2025-03-13 12:03:01,457 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emma.walsh@gmail.com (Priority: Low)
+2025-03-13 12:03:01,457 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emma.walsh@gmail.com (Priority: Low)
+2025-03-13 12:03:01,458 - ResumeScreening - INFO - [SIMULATION] Interview email sent to olivia.fitzgerald@gmail.com (Priority: Medium)
+2025-03-13 12:03:01,458 - ResumeScreening - INFO - [SIMULATION] Interview email sent to john.smith@example.com (Priority: High)
+2025-03-13 12:03:01,458 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sarah.johnson@example.com (Priority: Medium)
+2025-03-13 12:03:01,458 - ResumeScreening - INFO - [SIMULATION] Interview email sent to isabella.nolan@gmail.com (Priority: Low)
+2025-03-13 12:03:01,995 - ResumeScreening - INFO - Results visualization saved to ./output/screening_results.png
+2025-03-13 12:03:02,060 - ResumeScreening - INFO - Keyword distribution chart saved to ./output/keyword_distribution.png
+2025-03-13 12:03:02,060 - ResumeScreening - INFO - Resume Screening Pipeline completed successfully
+2025-03-16 15:12:30,284 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:12:30,285 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:12:30,285 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:12:30,285 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:12:30,286 - ResumeScreening - INFO - Found 100 PDF files to process
+2025-03-16 15:12:30,286 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_022.pdf
+2025-03-16 15:12:30,295 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_022.pdf: Liam Boyle, liam.boyle@hotmail.com, Keywords: 7
+2025-03-16 15:12:30,295 - ResumeScreening - INFO - Moved Irish_CV_022.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,295 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_036.pdf
+2025-03-16 15:12:30,299 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_036.pdf: Roisin Brennan, roisinb@yahoo.com, Keywords: 1
+2025-03-16 15:12:30,299 - ResumeScreening - INFO - Moved Irish_CV_036.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,299 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_037.pdf
+2025-03-16 15:12:30,302 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_037.pdf: Liam Lynch, liamlynch@hotmail.com, Keywords: 2
+2025-03-16 15:12:30,302 - ResumeScreening - INFO - Moved Irish_CV_037.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,302 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_023.pdf
+2025-03-16 15:12:30,305 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_023.pdf: Eimear Byrne, ebyrne@gmail.com, Keywords: 2
+2025-03-16 15:12:30,305 - ResumeScreening - INFO - Moved Irish_CV_023.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,305 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_035.pdf
+2025-03-16 15:12:30,308 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_035.pdf: Emma Boyle, emmab@hotmail.com, Keywords: 5
+2025-03-16 15:12:30,308 - ResumeScreening - INFO - Moved Irish_CV_035.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,308 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_021.pdf
+2025-03-16 15:12:30,311 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_021.pdf: Oisin Lynch, olynch@hotmail.com, Keywords: 6
+2025-03-16 15:12:30,311 - ResumeScreening - INFO - Moved Irish_CV_021.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,311 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_009.pdf
+2025-03-16 15:12:30,314 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_009.pdf: Liam O'Farrell, farrell@eircom.net, Keywords: 7
+2025-03-16 15:12:30,314 - ResumeScreening - INFO - Moved Irish_CV_009.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,314 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_008.pdf
+2025-03-16 15:12:30,317 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_008.pdf: Cillian Ryan, cillian.ryan@gmail.com, Keywords: 5
+2025-03-16 15:12:30,317 - ResumeScreening - INFO - Moved Irish_CV_008.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,317 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_020.pdf
+2025-03-16 15:12:30,321 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_020.pdf: Siobhan McGrath, smcgrath@eircom.net, Keywords: 6
+2025-03-16 15:12:30,321 - ResumeScreening - INFO - Moved Irish_CV_020.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,321 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_034.pdf
+2025-03-16 15:12:30,324 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_034.pdf: Roisin O'Neill, neill@outlook.com, Keywords: 2
+2025-03-16 15:12:30,324 - ResumeScreening - INFO - Moved Irish_CV_034.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,324 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_018.pdf
+2025-03-16 15:12:30,327 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_018.pdf: Grace Nolan, gracenolan@hotmail.com, Keywords: 7
+2025-03-16 15:12:30,327 - ResumeScreening - INFO - Moved Irish_CV_018.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,327 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_030.pdf
+2025-03-16 15:12:30,330 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_030.pdf: Lucy O'Farrell, farrell.lucy@eircom.net, Keywords: 4
+2025-03-16 15:12:30,330 - ResumeScreening - INFO - Moved Irish_CV_030.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,330 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_024.pdf
+2025-03-16 15:12:30,332 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_024.pdf: Roisin Kelly, rkelly@icloud.com, Keywords: 7
+2025-03-16 15:12:30,332 - ResumeScreening - INFO - Moved Irish_CV_024.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,332 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_025.pdf
+2025-03-16 15:12:30,335 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_025.pdf: Oisin Clarke, oisinclarke@icloud.com, Keywords: 3
+2025-03-16 15:12:30,335 - ResumeScreening - INFO - Moved Irish_CV_025.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,335 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_031.pdf
+2025-03-16 15:12:30,337 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_031.pdf: Darragh Collins, dcollins@outlook.com, Keywords: 5
+2025-03-16 15:12:30,337 - ResumeScreening - INFO - Moved Irish_CV_031.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,337 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_019.pdf
+2025-03-16 15:12:30,340 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_019.pdf: Oisin Boyle, oisin.boyle@outlook.com, Keywords: 7
+2025-03-16 15:12:30,340 - ResumeScreening - INFO - Moved Irish_CV_019.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,340 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_027.pdf
+2025-03-16 15:12:30,342 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_027.pdf: Liam Quinn, lquinn@outlook.com, Keywords: 4
+2025-03-16 15:12:30,343 - ResumeScreening - INFO - Moved Irish_CV_027.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,343 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_033.pdf
+2025-03-16 15:12:30,345 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_033.pdf: Seamus Duffy, duffy.seamus@yahoo.com, Keywords: 4
+2025-03-16 15:12:30,345 - ResumeScreening - INFO - Moved Irish_CV_033.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,345 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_032.pdf
+2025-03-16 15:12:30,347 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_032.pdf: Daniel O'Brien, brien@icloud.com, Keywords: 6
+2025-03-16 15:12:30,348 - ResumeScreening - INFO - Moved Irish_CV_032.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,348 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_026.pdf
+2025-03-16 15:12:30,350 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_026.pdf: Sean McLoughlin, mcloughlin.sean@yahoo.com, Keywords: 2
+2025-03-16 15:12:30,350 - ResumeScreening - INFO - Moved Irish_CV_026.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,350 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_082.pdf
+2025-03-16 15:12:30,353 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_082.pdf: Orla Brennan, brennan.orla@hotmail.com, Keywords: 3
+2025-03-16 15:12:30,353 - ResumeScreening - INFO - Moved Irish_CV_082.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,353 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_096.pdf
+2025-03-16 15:12:30,355 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_096.pdf: Saoirse O'Connell, saoirseo@eircom.net, Keywords: 7
+2025-03-16 15:12:30,355 - ResumeScreening - INFO - Moved Irish_CV_096.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,355 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_041.pdf
+2025-03-16 15:12:30,358 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_041.pdf: Emily Murphy, murphy.emily@eircom.net, Keywords: 5
+2025-03-16 15:12:30,358 - ResumeScreening - INFO - Moved Irish_CV_041.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,358 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_055.pdf
+2025-03-16 15:12:30,360 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_055.pdf: Ava Nolan, ava.nolan@eircom.net, Keywords: 3
+2025-03-16 15:12:30,360 - ResumeScreening - INFO - Moved Irish_CV_055.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,360 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_069.pdf
+2025-03-16 15:12:30,362 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_069.pdf: Ciara Connolly, cconnolly@outlook.com, Keywords: 6
+2025-03-16 15:12:30,362 - ResumeScreening - INFO - Moved Irish_CV_069.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,362 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_068.pdf
+2025-03-16 15:12:30,364 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_068.pdf: Aisling Moore, aislingmoore@eircom.net, Keywords: 2
+2025-03-16 15:12:30,364 - ResumeScreening - INFO - Moved Irish_CV_068.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,364 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_054.pdf
+2025-03-16 15:12:30,367 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_054.pdf: Amelia Moran, amelia.moran@yahoo.com, Keywords: 3
+2025-03-16 15:12:30,367 - ResumeScreening - INFO - Moved Irish_CV_054.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,367 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_040.pdf
+2025-03-16 15:12:30,369 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_040.pdf: Caoimhe McLoughlin, cmcloughlin@eircom.net, Keywords: 1
+2025-03-16 15:12:30,369 - ResumeScreening - INFO - Moved Irish_CV_040.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,369 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_097.pdf
+2025-03-16 15:12:30,372 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_097.pdf: Ryan Collins, ryancollins@icloud.com, Keywords: 6
+2025-03-16 15:12:30,372 - ResumeScreening - INFO - Moved Irish_CV_097.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,372 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_083.pdf
+2025-03-16 15:12:30,374 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_083.pdf: Cathal Quinn, quinn.cathal@outlook.com, Keywords: 3
+2025-03-16 15:12:30,375 - ResumeScreening - INFO - Moved Irish_CV_083.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,375 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_095.pdf
+2025-03-16 15:12:30,377 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_095.pdf: Conor O'Brien, brien@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,377 - ResumeScreening - INFO - Moved Irish_CV_095.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,377 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_081.pdf
+2025-03-16 15:12:30,379 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_081.pdf: Finn Clarke, finn.clarke@gmail.com, Keywords: 5
+2025-03-16 15:12:30,379 - ResumeScreening - INFO - Moved Irish_CV_081.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,379 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_056.pdf
+2025-03-16 15:12:30,382 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_056.pdf: James Healy, jhealy@hotmail.com, Keywords: 1
+2025-03-16 15:12:30,382 - ResumeScreening - INFO - Moved Irish_CV_056.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,382 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_042.pdf
+2025-03-16 15:12:30,384 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_042.pdf: Emma Moran, emoran@icloud.com, Keywords: 4
+2025-03-16 15:12:30,384 - ResumeScreening - INFO - Moved Irish_CV_042.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,384 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_043.pdf
+2025-03-16 15:12:30,387 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_043.pdf: Emily Lynch, lynch.emily@hotmail.com, Keywords: 3
+2025-03-16 15:12:30,387 - ResumeScreening - INFO - Moved Irish_CV_043.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,387 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_057.pdf
+2025-03-16 15:12:30,389 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_057.pdf: Fionn Collins, collins.fionn@gmail.com, Keywords: 6
+2025-03-16 15:12:30,390 - ResumeScreening - INFO - Moved Irish_CV_057.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,390 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_080.pdf
+2025-03-16 15:12:30,392 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_080.pdf: Oisin Murray, oisinm@icloud.com, Keywords: 6
+2025-03-16 15:12:30,392 - ResumeScreening - INFO - Moved Irish_CV_080.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,392 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_094.pdf
+2025-03-16 15:12:30,394 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_094.pdf: Amelia Doherty, ameliadoherty@hotmail.com, Keywords: 3
+2025-03-16 15:12:30,395 - ResumeScreening - INFO - Moved Irish_CV_094.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,395 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_090.pdf
+2025-03-16 15:12:30,397 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_090.pdf: Cillian O'Farrell, cilliano@hotmail.com, Keywords: 4
+2025-03-16 15:12:30,397 - ResumeScreening - INFO - Moved Irish_CV_090.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,397 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_084.pdf
+2025-03-16 15:12:30,400 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_084.pdf: Ryan Murray, rmurray@hotmail.com, Keywords: 4
+2025-03-16 15:12:30,400 - ResumeScreening - INFO - Moved Irish_CV_084.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,400 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_053.pdf
+2025-03-16 15:12:30,402 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_053.pdf: Ciara Fitzgerald, ciarafitzgerald@eircom.net, Keywords: 3
+2025-03-16 15:12:30,402 - ResumeScreening - INFO - Moved Irish_CV_053.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,402 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_047.pdf
+2025-03-16 15:12:30,404 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_047.pdf: James O'Neill, neill@eircom.net, Keywords: 7
+2025-03-16 15:12:30,404 - ResumeScreening - INFO - Moved Irish_CV_047.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,404 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_046.pdf
+2025-03-16 15:12:30,407 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_046.pdf: Seamus McLoughlin, smcloughlin@gmail.com, Keywords: 5
+2025-03-16 15:12:30,407 - ResumeScreening - INFO - Moved Irish_CV_046.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,407 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_052.pdf
+2025-03-16 15:12:30,409 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_052.pdf: Aoife McLoughlin, amcloughlin@eircom.net, Keywords: 5
+2025-03-16 15:12:30,409 - ResumeScreening - INFO - Moved Irish_CV_052.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,409 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_085.pdf
+2025-03-16 15:12:30,411 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_085.pdf: Liam Quinn, lquinn@outlook.com, Keywords: 3
+2025-03-16 15:12:30,411 - ResumeScreening - INFO - Moved Irish_CV_085.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,411 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_091.pdf
+2025-03-16 15:12:30,414 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_091.pdf: Jack McLoughlin, jackm@outlook.com, Keywords: 2
+2025-03-16 15:12:30,414 - ResumeScreening - INFO - Moved Irish_CV_091.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,414 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_087.pdf
+2025-03-16 15:12:30,416 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_087.pdf: Orla Murphy, omurphy@eircom.net, Keywords: 6
+2025-03-16 15:12:30,416 - ResumeScreening - INFO - Moved Irish_CV_087.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,416 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_093.pdf
+2025-03-16 15:12:30,419 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_093.pdf: Jack O'Doherty, doherty@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,419 - ResumeScreening - INFO - Moved Irish_CV_093.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,419 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_078.pdf
+2025-03-16 15:12:30,421 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_078.pdf: Patrick O'Connell, connell@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,421 - ResumeScreening - INFO - Moved Irish_CV_078.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,421 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_044.pdf
+2025-03-16 15:12:30,423 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_044.pdf: Orla Hughes, orlah@gmail.com, Keywords: 3
+2025-03-16 15:12:30,423 - ResumeScreening - INFO - Moved Irish_CV_044.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,423 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_050.pdf
+2025-03-16 15:12:30,426 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_050.pdf: Emily Doherty, emilydoherty@eircom.net, Keywords: 6
+2025-03-16 15:12:30,426 - ResumeScreening - INFO - Moved Irish_CV_050.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,426 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_051.pdf
+2025-03-16 15:12:30,428 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_051.pdf: James Lynch, jamesl@yahoo.com, Keywords: 2
+2025-03-16 15:12:30,428 - ResumeScreening - INFO - Moved Irish_CV_051.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,428 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_045.pdf
+2025-03-16 15:12:30,431 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_045.pdf: Emily Healy, healy.emily@outlook.com, Keywords: 6
+2025-03-16 15:12:30,431 - ResumeScreening - INFO - Moved Irish_CV_045.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,431 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_079.pdf
+2025-03-16 15:12:30,433 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_079.pdf: Cillian Lynch, cillianl@hotmail.com, Keywords: 2
+2025-03-16 15:12:30,433 - ResumeScreening - INFO - Moved Irish_CV_079.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,433 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_092.pdf
+2025-03-16 15:12:30,435 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_092.pdf: Ella Smith, smith.ella@hotmail.com, Keywords: 5
+2025-03-16 15:12:30,435 - ResumeScreening - INFO - Moved Irish_CV_092.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,435 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_086.pdf
+2025-03-16 15:12:30,437 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_086.pdf: Sarah Quinn, sarah.quinn@outlook.com, Keywords: 5
+2025-03-16 15:12:30,438 - ResumeScreening - INFO - Moved Irish_CV_086.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,438 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_060.pdf
+2025-03-16 15:12:30,440 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_060.pdf: Conor Connolly, conorc@yahoo.com, Keywords: 2
+2025-03-16 15:12:30,440 - ResumeScreening - INFO - Moved Irish_CV_060.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,440 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_074.pdf
+2025-03-16 15:12:30,442 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_074.pdf: Eoin Quinn, equinn@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,442 - ResumeScreening - INFO - Moved Irish_CV_074.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,442 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_048.pdf
+2025-03-16 15:12:30,444 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_048.pdf: Liam O'Reilly, reilly@yahoo.com, Keywords: 5
+2025-03-16 15:12:30,444 - ResumeScreening - INFO - Moved Irish_CV_048.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,444 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_100.pdf
+2025-03-16 15:12:30,447 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_100.pdf: Lucy Boyle, lucyboyle@yahoo.com, Keywords: 2
+2025-03-16 15:12:30,447 - ResumeScreening - INFO - Moved Irish_CV_100.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,447 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_049.pdf
+2025-03-16 15:12:30,449 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_049.pdf: James O'Connor, connor@yahoo.com, Keywords: 7
+2025-03-16 15:12:30,449 - ResumeScreening - INFO - Moved Irish_CV_049.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,449 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_075.pdf
+2025-03-16 15:12:30,451 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_075.pdf: Niamh Quinn, nquinn@gmail.com, Keywords: 3
+2025-03-16 15:12:30,452 - ResumeScreening - INFO - Moved Irish_CV_075.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,452 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_061.pdf
+2025-03-16 15:12:30,454 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_061.pdf: Aisling Brennan, abrennan@yahoo.com, Keywords: 4
+2025-03-16 15:12:30,454 - ResumeScreening - INFO - Moved Irish_CV_061.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,454 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_088.pdf
+2025-03-16 15:12:30,456 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_088.pdf: Cillian Smith, cillians@outlook.com, Keywords: 5
+2025-03-16 15:12:30,456 - ResumeScreening - INFO - Moved Irish_CV_088.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,456 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_077.pdf
+2025-03-16 15:12:30,459 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_077.pdf: Orla O'Connor, connor.orla@yahoo.com, Keywords: 3
+2025-03-16 15:12:30,459 - ResumeScreening - INFO - Moved Irish_CV_077.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,459 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_063.pdf
+2025-03-16 15:12:30,461 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_063.pdf: Emma Johnston, emma.johnston@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,461 - ResumeScreening - INFO - Moved Irish_CV_063.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,461 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_062.pdf
+2025-03-16 15:12:30,464 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_062.pdf: Eimear O'Brien, brien@gmail.com, Keywords: 2
+2025-03-16 15:12:30,464 - ResumeScreening - INFO - Moved Irish_CV_062.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,464 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_076.pdf
+2025-03-16 15:12:30,466 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_076.pdf: Grace Nolan, gnolan@yahoo.com, Keywords: 1
+2025-03-16 15:12:30,466 - ResumeScreening - INFO - Moved Irish_CV_076.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,466 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_089.pdf
+2025-03-16 15:12:30,468 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_089.pdf: Ava Gallagher, agallagher@gmail.com, Keywords: 2
+2025-03-16 15:12:30,468 - ResumeScreening - INFO - Moved Irish_CV_089.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,468 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_099.pdf
+2025-03-16 15:12:30,471 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_099.pdf: James Doyle, jamesdoyle@hotmail.com, Keywords: 5
+2025-03-16 15:12:30,471 - ResumeScreening - INFO - Moved Irish_CV_099.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,471 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_072.pdf
+2025-03-16 15:12:30,473 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_072.pdf: Liam O'Connor, connor@hotmail.com, Keywords: 7
+2025-03-16 15:12:30,473 - ResumeScreening - INFO - Moved Irish_CV_072.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,473 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_066.pdf
+2025-03-16 15:12:30,475 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_066.pdf: Orla McLoughlin, omcloughlin@outlook.com, Keywords: 5
+2025-03-16 15:12:30,476 - ResumeScreening - INFO - Moved Irish_CV_066.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,476 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_067.pdf
+2025-03-16 15:12:30,478 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_067.pdf: Noah Fitzgerald, nfitzgerald@yahoo.com, Keywords: 7
+2025-03-16 15:12:30,478 - ResumeScreening - INFO - Moved Irish_CV_067.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,478 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_073.pdf
+2025-03-16 15:12:30,481 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_073.pdf: Sean Collins, sean.collins@eircom.net, Keywords: 6
+2025-03-16 15:12:30,481 - ResumeScreening - INFO - Moved Irish_CV_073.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,481 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_098.pdf
+2025-03-16 15:12:30,484 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_098.pdf: Sean McLoughlin, smcloughlin@gmail.com, Keywords: 2
+2025-03-16 15:12:30,484 - ResumeScreening - INFO - Moved Irish_CV_098.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,484 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_059.pdf
+2025-03-16 15:12:30,487 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_059.pdf: Ciara Clarke, ciarac@eircom.net, Keywords: 2
+2025-03-16 15:12:30,487 - ResumeScreening - INFO - Moved Irish_CV_059.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,487 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_065.pdf
+2025-03-16 15:12:30,490 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_065.pdf: Aoife Murray, aoifem@hotmail.com, Keywords: 5
+2025-03-16 15:12:30,490 - ResumeScreening - INFO - Moved Irish_CV_065.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,490 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_071.pdf
+2025-03-16 15:12:30,492 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_071.pdf: Siobhan McLoughlin, siobhanmcloughlin@gmail.com, Keywords: 1
+2025-03-16 15:12:30,493 - ResumeScreening - INFO - Moved Irish_CV_071.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,493 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_070.pdf
+2025-03-16 15:12:30,495 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_070.pdf: Orla Moran, orla.moran@gmail.com, Keywords: 7
+2025-03-16 15:12:30,495 - ResumeScreening - INFO - Moved Irish_CV_070.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,495 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_064.pdf
+2025-03-16 15:12:30,498 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_064.pdf: Emily Kelly, emily.kelly@icloud.com, Keywords: 4
+2025-03-16 15:12:30,498 - ResumeScreening - INFO - Moved Irish_CV_064.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,498 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_058.pdf
+2025-03-16 15:12:30,500 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_058.pdf: Sophie McLoughlin, sophiemcloughlin@hotmail.com, Keywords: 1
+2025-03-16 15:12:30,500 - ResumeScreening - INFO - Moved Irish_CV_058.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,500 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_003.pdf
+2025-03-16 15:12:30,502 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_003.pdf: Cillian Moore, cillian.moore@eircom.net, Keywords: 2
+2025-03-16 15:12:30,503 - ResumeScreening - INFO - Moved Irish_CV_003.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,503 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_017.pdf
+2025-03-16 15:12:30,505 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_017.pdf: Sean Collins, collins.sean@eircom.net, Keywords: 2
+2025-03-16 15:12:30,505 - ResumeScreening - INFO - Moved Irish_CV_017.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,505 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_016.pdf
+2025-03-16 15:12:30,508 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_016.pdf: Noah Boyle, noah.boyle@eircom.net, Keywords: 5
+2025-03-16 15:12:30,508 - ResumeScreening - INFO - Moved Irish_CV_016.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,508 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_002.pdf
+2025-03-16 15:12:30,510 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_002.pdf: Grace McCarthy, gmccarthy@gmail.com, Keywords: 1
+2025-03-16 15:12:30,510 - ResumeScreening - INFO - Moved Irish_CV_002.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,510 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_014.pdf
+2025-03-16 15:12:30,513 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_014.pdf: Aisling Connolly, aislingc@outlook.com, Keywords: 5
+2025-03-16 15:12:30,513 - ResumeScreening - INFO - Moved Irish_CV_014.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,513 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_028.pdf
+2025-03-16 15:12:30,515 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_028.pdf: Ava Doherty, avadoherty@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,515 - ResumeScreening - INFO - Moved Irish_CV_028.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,515 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_029.pdf
+2025-03-16 15:12:30,518 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_029.pdf: Sarah O'Doherty, doherty@yahoo.com, Keywords: 9
+2025-03-16 15:12:30,518 - ResumeScreening - INFO - Moved Irish_CV_029.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,518 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_001.pdf
+2025-03-16 15:12:30,520 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_001.pdf: Seamus Nolan, seamusnolan@outlook.com, Keywords: 4
+2025-03-16 15:12:30,520 - ResumeScreening - INFO - Moved Irish_CV_001.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,520 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_015.pdf
+2025-03-16 15:12:30,523 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_015.pdf: Sarah Collins, collins.sarah@yahoo.com, Keywords: 6
+2025-03-16 15:12:30,523 - ResumeScreening - INFO - Moved Irish_CV_015.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,523 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_039.pdf
+2025-03-16 15:12:30,525 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_039.pdf: Emily Fitzgerald, emilyfitzgerald@outlook.com, Keywords: 1
+2025-03-16 15:12:30,525 - ResumeScreening - INFO - Moved Irish_CV_039.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,525 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_011.pdf
+2025-03-16 15:12:30,527 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_011.pdf: Tadhg O'Sullivan, sullivan@yahoo.com, Keywords: 1
+2025-03-16 15:12:30,527 - ResumeScreening - INFO - Moved Irish_CV_011.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,527 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_005.pdf
+2025-03-16 15:12:30,530 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_005.pdf: Darragh Brennan, darragh.brennan@outlook.com, Keywords: 4
+2025-03-16 15:12:30,530 - ResumeScreening - INFO - Moved Irish_CV_005.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,530 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_004.pdf
+2025-03-16 15:12:30,532 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_004.pdf: Declan Healy, declanh@eircom.net, Keywords: 3
+2025-03-16 15:12:30,532 - ResumeScreening - INFO - Moved Irish_CV_004.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,532 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_010.pdf
+2025-03-16 15:12:30,534 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_010.pdf: Amelia O'Connor, connor@gmail.com, Keywords: 2
+2025-03-16 15:12:30,534 - ResumeScreening - INFO - Moved Irish_CV_010.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,534 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_038.pdf
+2025-03-16 15:12:30,536 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_038.pdf: Fionn O'Sullivan, fionno@icloud.com, Keywords: 3
+2025-03-16 15:12:30,537 - ResumeScreening - INFO - Moved Irish_CV_038.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,537 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_006.pdf
+2025-03-16 15:12:30,539 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_006.pdf: Sophie Ryan, sophier@eircom.net, Keywords: 7
+2025-03-16 15:12:30,539 - ResumeScreening - INFO - Moved Irish_CV_006.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,539 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_012.pdf
+2025-03-16 15:12:30,541 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_012.pdf: Cillian O'Farrell, farrell@icloud.com, Keywords: 7
+2025-03-16 15:12:30,541 - ResumeScreening - INFO - Moved Irish_CV_012.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,541 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_013.pdf
+2025-03-16 15:12:30,543 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_013.pdf: Seamus Burke, sburke@icloud.com, Keywords: 1
+2025-03-16 15:12:30,543 - ResumeScreening - INFO - Moved Irish_CV_013.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,543 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_007.pdf
+2025-03-16 15:12:30,545 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_007.pdf: Chloe Duffy, duffy.chloe@icloud.com, Keywords: 2
+2025-03-16 15:12:30,546 - ResumeScreening - INFO - Moved Irish_CV_007.pdf to ./input_cv/processed/
+2025-03-16 15:12:30,548 - ResumeScreening - INFO - Saved extracted resume data to ./output/extracted_resumes.csv
+2025-03-16 15:12:30,549 - ResumeScreening - INFO - Found 90 relevant candidates
+2025-03-16 15:12:30,549 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liam.boyle@hotmail.com
+2025-03-16 15:12:30,549 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liamlynch@hotmail.com
+2025-03-16 15:12:30,549 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ebyrne@gmail.com
+2025-03-16 15:12:30,549 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emmab@hotmail.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to olynch@hotmail.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@eircom.net
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.ryan@gmail.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcgrath@eircom.net
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@outlook.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to gracenolan@hotmail.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell.lucy@eircom.net
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to rkelly@icloud.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisinclarke@icloud.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to dcollins@outlook.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisin.boyle@outlook.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lquinn@outlook.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.seamus@yahoo.com
+2025-03-16 15:12:30,550 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@icloud.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to mcloughlin.sean@yahoo.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brennan.orla@hotmail.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to saoirseo@eircom.net
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to murphy.emily@eircom.net
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ava.nolan@eircom.net
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cconnolly@outlook.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingmoore@eircom.net
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to amelia.moran@yahoo.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ryancollins@icloud.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to quinn.cathal@outlook.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@yahoo.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to finn.clarke@gmail.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emoran@icloud.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lynch.emily@hotmail.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.fionn@gmail.com
+2025-03-16 15:12:30,551 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisinm@icloud.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ameliadoherty@hotmail.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cilliano@hotmail.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to rmurray@hotmail.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ciarafitzgerald@eircom.net
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@eircom.net
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcloughlin@gmail.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to amcloughlin@eircom.net
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lquinn@outlook.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jackm@outlook.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to omurphy@eircom.net
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to doherty@yahoo.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connell@yahoo.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to orlah@gmail.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emilydoherty@eircom.net
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jamesl@yahoo.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to healy.emily@outlook.com
+2025-03-16 15:12:30,552 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillianl@hotmail.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smith.ella@hotmail.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sarah.quinn@outlook.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to conorc@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to equinn@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to reilly@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lucyboyle@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to nquinn@gmail.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to abrennan@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillians@outlook.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor.orla@yahoo.com
+2025-03-16 15:12:30,553 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emma.johnston@yahoo.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@gmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to agallagher@gmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jamesdoyle@hotmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@hotmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to omcloughlin@outlook.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to nfitzgerald@yahoo.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sean.collins@eircom.net
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcloughlin@gmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ciarac@eircom.net
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aoifem@hotmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to orla.moran@gmail.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emily.kelly@icloud.com
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.moore@eircom.net
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sean@eircom.net
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to noah.boyle@eircom.net
+2025-03-16 15:12:30,554 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingc@outlook.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to avadoherty@yahoo.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to doherty@yahoo.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to seamusnolan@outlook.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sarah@yahoo.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to darragh.brennan@outlook.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to declanh@eircom.net
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@gmail.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to fionno@icloud.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sophier@eircom.net
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@icloud.com
+2025-03-16 15:12:30,555 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.chloe@icloud.com
+2025-03-16 15:12:30,556 - ResumeScreening - INFO - Loaded 10 survey responses
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - Saved classified candidates to ./output/output_candidates.csv
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liam.boyle@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liamlynch@hotmail.com (Priority: Low)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ebyrne@gmail.com (Priority: Low)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emmab@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to olynch@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.ryan@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcgrath@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@outlook.com (Priority: Low)
+2025-03-16 15:12:30,560 - ResumeScreening - INFO - [SIMULATION] Interview email sent to gracenolan@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell.lucy@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to rkelly@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisinclarke@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to dcollins@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisin.boyle@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lquinn@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.seamus@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to mcloughlin.sean@yahoo.com (Priority: Low)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brennan.orla@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to saoirseo@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to murphy.emily@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,561 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ava.nolan@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cconnolly@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingmoore@eircom.net (Priority: Low)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to amelia.moran@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ryancollins@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to quinn.cathal@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to finn.clarke@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emoran@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lynch.emily@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.fionn@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisinm@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ameliadoherty@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cilliano@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to rmurray@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,562 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ciarafitzgerald@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcloughlin@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to amcloughlin@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lquinn@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jackm@outlook.com (Priority: Low)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to omurphy@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to doherty@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connell@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to orlah@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emilydoherty@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jamesl@yahoo.com (Priority: Low)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to healy.emily@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillianl@hotmail.com (Priority: Low)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smith.ella@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,563 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sarah.quinn@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to conorc@yahoo.com (Priority: Low)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to equinn@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to reilly@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lucyboyle@yahoo.com (Priority: Low)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to nquinn@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to abrennan@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillians@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor.orla@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emma.johnston@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@gmail.com (Priority: Low)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to agallagher@gmail.com (Priority: Low)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jamesdoyle@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to omcloughlin@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,564 - ResumeScreening - INFO - [SIMULATION] Interview email sent to nfitzgerald@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sean.collins@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcloughlin@gmail.com (Priority: Low)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ciarac@eircom.net (Priority: Low)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aoifem@hotmail.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to orla.moran@gmail.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emily.kelly@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.moore@eircom.net (Priority: Low)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sean@eircom.net (Priority: Low)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to noah.boyle@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingc@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to avadoherty@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to doherty@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to seamusnolan@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,565 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sarah@yahoo.com (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to darragh.brennan@outlook.com (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to declanh@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@gmail.com (Priority: Low)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to fionno@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sophier@eircom.net (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@icloud.com (Priority: Medium)
+2025-03-16 15:12:30,566 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.chloe@icloud.com (Priority: Low)
+2025-03-16 15:12:30,844 - ResumeScreening - INFO - Results visualization saved to ./output/screening_results.png
+2025-03-16 15:12:30,882 - ResumeScreening - INFO - Keyword distribution chart saved to ./output/keyword_distribution.png
+2025-03-16 15:12:30,882 - ResumeScreening - INFO - Resume Screening Pipeline completed successfully
+2025-03-16 15:31:23,852 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:31:23,852 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:31:23,853 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:31:23,853 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:31:23,853 - ResumeScreening - WARNING - No PDF files found in ./input_cv/
+2025-03-16 15:31:23,853 - ResumeScreening - WARNING - No resume data to process
+2025-03-16 15:31:47,407 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:31:47,408 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:31:47,408 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:31:47,408 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:31:47,408 - ResumeScreening - INFO - Found 20 PDF files to process
+2025-03-16 15:31:47,408 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_009.pdf
+2025-03-16 15:31:47,422 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_009.pdf: Liam O'Farrell, farrell@eircom.net, Keywords: 7
+2025-03-16 15:31:47,423 - ResumeScreening - INFO - Moved Irish_CV_009.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,423 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_008.pdf
+2025-03-16 15:31:47,426 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_008.pdf: Cillian Ryan, cillian.ryan@gmail.com, Keywords: 5
+2025-03-16 15:31:47,426 - ResumeScreening - INFO - Moved Irish_CV_008.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,426 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_020.pdf
+2025-03-16 15:31:47,429 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_020.pdf: Siobhan McGrath, smcgrath@eircom.net, Keywords: 6
+2025-03-16 15:31:47,430 - ResumeScreening - INFO - Moved Irish_CV_020.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,430 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_018.pdf
+2025-03-16 15:31:47,433 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_018.pdf: Grace Nolan, gracenolan@hotmail.com, Keywords: 7
+2025-03-16 15:31:47,433 - ResumeScreening - INFO - Moved Irish_CV_018.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,433 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_019.pdf
+2025-03-16 15:31:47,435 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_019.pdf: Oisin Boyle, oisin.boyle@outlook.com, Keywords: 7
+2025-03-16 15:31:47,435 - ResumeScreening - INFO - Moved Irish_CV_019.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,435 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_003.pdf
+2025-03-16 15:31:47,438 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_003.pdf: Cillian Moore, cillian.moore@eircom.net, Keywords: 2
+2025-03-16 15:31:47,438 - ResumeScreening - INFO - Moved Irish_CV_003.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,438 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_017.pdf
+2025-03-16 15:31:47,440 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_017.pdf: Sean Collins, collins.sean@eircom.net, Keywords: 2
+2025-03-16 15:31:47,441 - ResumeScreening - INFO - Moved Irish_CV_017.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,441 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_016.pdf
+2025-03-16 15:31:47,443 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_016.pdf: Noah Boyle, noah.boyle@eircom.net, Keywords: 5
+2025-03-16 15:31:47,443 - ResumeScreening - INFO - Moved Irish_CV_016.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,443 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_002.pdf
+2025-03-16 15:31:47,446 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_002.pdf: Grace McCarthy, gmccarthy@gmail.com, Keywords: 1
+2025-03-16 15:31:47,446 - ResumeScreening - INFO - Moved Irish_CV_002.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,446 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_014.pdf
+2025-03-16 15:31:47,448 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_014.pdf: Aisling Connolly, aislingc@outlook.com, Keywords: 5
+2025-03-16 15:31:47,448 - ResumeScreening - INFO - Moved Irish_CV_014.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,448 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_001.pdf
+2025-03-16 15:31:47,451 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_001.pdf: Seamus Nolan, seamusnolan@outlook.com, Keywords: 4
+2025-03-16 15:31:47,451 - ResumeScreening - INFO - Moved Irish_CV_001.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,452 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_015.pdf
+2025-03-16 15:31:47,454 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_015.pdf: Sarah Collins, collins.sarah@yahoo.com, Keywords: 6
+2025-03-16 15:31:47,454 - ResumeScreening - INFO - Moved Irish_CV_015.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,454 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_011.pdf
+2025-03-16 15:31:47,456 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_011.pdf: Tadhg O'Sullivan, sullivan@yahoo.com, Keywords: 1
+2025-03-16 15:31:47,457 - ResumeScreening - INFO - Moved Irish_CV_011.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,457 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_005.pdf
+2025-03-16 15:31:47,459 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_005.pdf: Darragh Brennan, darragh.brennan@outlook.com, Keywords: 4
+2025-03-16 15:31:47,460 - ResumeScreening - INFO - Moved Irish_CV_005.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,460 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_004.pdf
+2025-03-16 15:31:47,462 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_004.pdf: Declan Healy, declanh@eircom.net, Keywords: 3
+2025-03-16 15:31:47,462 - ResumeScreening - INFO - Moved Irish_CV_004.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,462 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_010.pdf
+2025-03-16 15:31:47,464 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_010.pdf: Amelia O'Connor, connor@gmail.com, Keywords: 2
+2025-03-16 15:31:47,465 - ResumeScreening - INFO - Moved Irish_CV_010.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,465 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_006.pdf
+2025-03-16 15:31:47,467 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_006.pdf: Sophie Ryan, sophier@eircom.net, Keywords: 7
+2025-03-16 15:31:47,467 - ResumeScreening - INFO - Moved Irish_CV_006.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,467 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_012.pdf
+2025-03-16 15:31:47,469 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_012.pdf: Cillian O'Farrell, farrell@icloud.com, Keywords: 7
+2025-03-16 15:31:47,470 - ResumeScreening - INFO - Moved Irish_CV_012.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,470 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_013.pdf
+2025-03-16 15:31:47,471 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_013.pdf: Seamus Burke, sburke@icloud.com, Keywords: 1
+2025-03-16 15:31:47,472 - ResumeScreening - INFO - Moved Irish_CV_013.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,472 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_007.pdf
+2025-03-16 15:31:47,474 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_007.pdf: Chloe Duffy, duffy.chloe@icloud.com, Keywords: 2
+2025-03-16 15:31:47,474 - ResumeScreening - INFO - Moved Irish_CV_007.pdf to ./input_cv/processed/
+2025-03-16 15:31:47,477 - ResumeScreening - INFO - Saved extracted resume data to ./output/extracted_resumes.csv
+2025-03-16 15:31:47,480 - ResumeScreening - INFO - Found 17 relevant candidates
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@eircom.net
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.ryan@gmail.com
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcgrath@eircom.net
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to gracenolan@hotmail.com
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisin.boyle@outlook.com
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.moore@eircom.net
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sean@eircom.net
+2025-03-16 15:31:47,481 - ResumeScreening - INFO - [SIMULATION] Survey email sent to noah.boyle@eircom.net
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingc@outlook.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to seamusnolan@outlook.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sarah@yahoo.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to darragh.brennan@outlook.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to declanh@eircom.net
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@gmail.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sophier@eircom.net
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@icloud.com
+2025-03-16 15:31:47,482 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.chloe@icloud.com
+2025-03-16 15:31:47,484 - ResumeScreening - INFO - Loaded 20 survey responses
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - Saved classified candidates to ./output/output_candidates.csv
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@eircom.net (Priority: High)
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.ryan@gmail.com (Priority: High)
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcgrath@eircom.net (Priority: High)
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - [SIMULATION] Interview email sent to gracenolan@hotmail.com (Priority: Medium)
+2025-03-16 15:31:47,490 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisin.boyle@outlook.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.moore@eircom.net (Priority: Low)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sean@eircom.net (Priority: Low)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to noah.boyle@eircom.net (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingc@outlook.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to seamusnolan@outlook.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sarah@yahoo.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to darragh.brennan@outlook.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to declanh@eircom.net (Priority: Low)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@gmail.com (Priority: Low)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sophier@eircom.net (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@icloud.com (Priority: Medium)
+2025-03-16 15:31:47,491 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.chloe@icloud.com (Priority: Low)
+2025-03-16 15:31:47,687 - ResumeScreening - INFO - Results visualization saved to ./output/screening_results.png
+2025-03-16 15:31:47,728 - ResumeScreening - INFO - Keyword distribution chart saved to ./output/keyword_distribution.png
+2025-03-16 15:31:47,728 - ResumeScreening - INFO - Resume Screening Pipeline completed successfully
+2025-03-16 15:57:10,489 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:57:10,490 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:57:10,490 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:57:10,490 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:57:10,490 - ResumeScreening - INFO - Found 50 PDF files to process
+2025-03-16 15:57:10,490 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_022.pdf
+2025-03-16 15:57:10,508 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_022.pdf: Liam Boyle, liam.boyle@hotmail.com, Keywords: 7
+2025-03-16 15:57:10,509 - ResumeScreening - INFO - Moved Irish_CV_022.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,509 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_036.pdf
+2025-03-16 15:57:10,511 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_036.pdf: Roisin Brennan, roisinb@yahoo.com, Keywords: 1
+2025-03-16 15:57:10,511 - ResumeScreening - INFO - Moved Irish_CV_036.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,512 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_037.pdf
+2025-03-16 15:57:10,514 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_037.pdf: Liam Lynch, liamlynch@hotmail.com, Keywords: 2
+2025-03-16 15:57:10,515 - ResumeScreening - INFO - Moved Irish_CV_037.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,515 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_023.pdf
+2025-03-16 15:57:10,517 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_023.pdf: Eimear Byrne, ebyrne@gmail.com, Keywords: 2
+2025-03-16 15:57:10,517 - ResumeScreening - INFO - Moved Irish_CV_023.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,517 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_035.pdf
+2025-03-16 15:57:10,520 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_035.pdf: Emma Boyle, emmab@hotmail.com, Keywords: 5
+2025-03-16 15:57:10,520 - ResumeScreening - INFO - Moved Irish_CV_035.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,520 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_021.pdf
+2025-03-16 15:57:10,523 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_021.pdf: Oisin Lynch, olynch@hotmail.com, Keywords: 6
+2025-03-16 15:57:10,524 - ResumeScreening - INFO - Moved Irish_CV_021.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,524 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_009.pdf
+2025-03-16 15:57:10,526 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_009.pdf: Liam O'Farrell, farrell@eircom.net, Keywords: 7
+2025-03-16 15:57:10,527 - ResumeScreening - INFO - Moved Irish_CV_009.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,527 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_008.pdf
+2025-03-16 15:57:10,530 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_008.pdf: Cillian Ryan, cillian.ryan@gmail.com, Keywords: 5
+2025-03-16 15:57:10,530 - ResumeScreening - INFO - Moved Irish_CV_008.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,530 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_020.pdf
+2025-03-16 15:57:10,533 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_020.pdf: Siobhan McGrath, smcgrath@eircom.net, Keywords: 6
+2025-03-16 15:57:10,534 - ResumeScreening - INFO - Moved Irish_CV_020.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,534 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_034.pdf
+2025-03-16 15:57:10,536 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_034.pdf: Roisin O'Neill, neill@outlook.com, Keywords: 2
+2025-03-16 15:57:10,536 - ResumeScreening - INFO - Moved Irish_CV_034.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,536 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_018.pdf
+2025-03-16 15:57:10,539 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_018.pdf: Grace Nolan, gracenolan@hotmail.com, Keywords: 7
+2025-03-16 15:57:10,540 - ResumeScreening - INFO - Moved Irish_CV_018.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,540 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_030.pdf
+2025-03-16 15:57:10,542 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_030.pdf: Lucy O'Farrell, farrell.lucy@eircom.net, Keywords: 4
+2025-03-16 15:57:10,542 - ResumeScreening - INFO - Moved Irish_CV_030.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,542 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_024.pdf
+2025-03-16 15:57:10,545 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_024.pdf: Roisin Kelly, rkelly@icloud.com, Keywords: 7
+2025-03-16 15:57:10,545 - ResumeScreening - INFO - Moved Irish_CV_024.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,545 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_025.pdf
+2025-03-16 15:57:10,549 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_025.pdf: Oisin Clarke, oisinclarke@icloud.com, Keywords: 3
+2025-03-16 15:57:10,549 - ResumeScreening - INFO - Moved Irish_CV_025.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,549 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_031.pdf
+2025-03-16 15:57:10,553 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_031.pdf: Darragh Collins, dcollins@outlook.com, Keywords: 5
+2025-03-16 15:57:10,553 - ResumeScreening - INFO - Moved Irish_CV_031.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,553 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_019.pdf
+2025-03-16 15:57:10,556 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_019.pdf: Oisin Boyle, oisin.boyle@outlook.com, Keywords: 7
+2025-03-16 15:57:10,556 - ResumeScreening - INFO - Moved Irish_CV_019.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,556 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_027.pdf
+2025-03-16 15:57:10,559 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_027.pdf: Liam Quinn, lquinn@outlook.com, Keywords: 4
+2025-03-16 15:57:10,560 - ResumeScreening - INFO - Moved Irish_CV_027.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,560 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_033.pdf
+2025-03-16 15:57:10,562 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_033.pdf: Seamus Duffy, duffy.seamus@yahoo.com, Keywords: 4
+2025-03-16 15:57:10,562 - ResumeScreening - INFO - Moved Irish_CV_033.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,562 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_032.pdf
+2025-03-16 15:57:10,565 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_032.pdf: Daniel O'Brien, brien@icloud.com, Keywords: 6
+2025-03-16 15:57:10,565 - ResumeScreening - INFO - Moved Irish_CV_032.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,565 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_026.pdf
+2025-03-16 15:57:10,568 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_026.pdf: Sean McLoughlin, mcloughlin.sean@yahoo.com, Keywords: 2
+2025-03-16 15:57:10,568 - ResumeScreening - INFO - Moved Irish_CV_026.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,568 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_041.pdf
+2025-03-16 15:57:10,571 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_041.pdf: Emily Murphy, murphy.emily@eircom.net, Keywords: 5
+2025-03-16 15:57:10,571 - ResumeScreening - INFO - Moved Irish_CV_041.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,571 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_040.pdf
+2025-03-16 15:57:10,573 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_040.pdf: Caoimhe McLoughlin, cmcloughlin@eircom.net, Keywords: 1
+2025-03-16 15:57:10,574 - ResumeScreening - INFO - Moved Irish_CV_040.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,574 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_042.pdf
+2025-03-16 15:57:10,576 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_042.pdf: Emma Moran, emoran@icloud.com, Keywords: 4
+2025-03-16 15:57:10,576 - ResumeScreening - INFO - Moved Irish_CV_042.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,576 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_043.pdf
+2025-03-16 15:57:10,579 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_043.pdf: Emily Lynch, lynch.emily@hotmail.com, Keywords: 3
+2025-03-16 15:57:10,579 - ResumeScreening - INFO - Moved Irish_CV_043.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,579 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_047.pdf
+2025-03-16 15:57:10,581 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_047.pdf: James O'Neill, neill@eircom.net, Keywords: 7
+2025-03-16 15:57:10,581 - ResumeScreening - INFO - Moved Irish_CV_047.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,581 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_046.pdf
+2025-03-16 15:57:10,584 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_046.pdf: Seamus McLoughlin, smcloughlin@gmail.com, Keywords: 5
+2025-03-16 15:57:10,584 - ResumeScreening - INFO - Moved Irish_CV_046.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,584 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_044.pdf
+2025-03-16 15:57:10,586 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_044.pdf: Orla Hughes, orlah@gmail.com, Keywords: 3
+2025-03-16 15:57:10,586 - ResumeScreening - INFO - Moved Irish_CV_044.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,586 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_050.pdf
+2025-03-16 15:57:10,588 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_050.pdf: Emily Doherty, emilydoherty@eircom.net, Keywords: 6
+2025-03-16 15:57:10,589 - ResumeScreening - INFO - Moved Irish_CV_050.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,589 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_045.pdf
+2025-03-16 15:57:10,592 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_045.pdf: Emily Healy, healy.emily@outlook.com, Keywords: 6
+2025-03-16 15:57:10,592 - ResumeScreening - INFO - Moved Irish_CV_045.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,592 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_048.pdf
+2025-03-16 15:57:10,595 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_048.pdf: Liam O'Reilly, reilly@yahoo.com, Keywords: 5
+2025-03-16 15:57:10,595 - ResumeScreening - INFO - Moved Irish_CV_048.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,595 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_049.pdf
+2025-03-16 15:57:10,598 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_049.pdf: James O'Connor, connor@yahoo.com, Keywords: 7
+2025-03-16 15:57:10,599 - ResumeScreening - INFO - Moved Irish_CV_049.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,599 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_003.pdf
+2025-03-16 15:57:10,602 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_003.pdf: Cillian Moore, cillian.moore@eircom.net, Keywords: 2
+2025-03-16 15:57:10,602 - ResumeScreening - INFO - Moved Irish_CV_003.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,602 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_017.pdf
+2025-03-16 15:57:10,604 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_017.pdf: Sean Collins, collins.sean@eircom.net, Keywords: 2
+2025-03-16 15:57:10,605 - ResumeScreening - INFO - Moved Irish_CV_017.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,605 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_016.pdf
+2025-03-16 15:57:10,607 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_016.pdf: Noah Boyle, noah.boyle@eircom.net, Keywords: 5
+2025-03-16 15:57:10,607 - ResumeScreening - INFO - Moved Irish_CV_016.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,607 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_002.pdf
+2025-03-16 15:57:10,610 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_002.pdf: Grace McCarthy, gmccarthy@gmail.com, Keywords: 1
+2025-03-16 15:57:10,610 - ResumeScreening - INFO - Moved Irish_CV_002.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,610 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_014.pdf
+2025-03-16 15:57:10,613 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_014.pdf: Aisling Connolly, aislingc@outlook.com, Keywords: 5
+2025-03-16 15:57:10,613 - ResumeScreening - INFO - Moved Irish_CV_014.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,613 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_028.pdf
+2025-03-16 15:57:10,616 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_028.pdf: Ava Doherty, avadoherty@yahoo.com, Keywords: 6
+2025-03-16 15:57:10,616 - ResumeScreening - INFO - Moved Irish_CV_028.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,617 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_029.pdf
+2025-03-16 15:57:10,620 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_029.pdf: Sarah O'Doherty, doherty@yahoo.com, Keywords: 9
+2025-03-16 15:57:10,620 - ResumeScreening - INFO - Moved Irish_CV_029.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,620 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_001.pdf
+2025-03-16 15:57:10,624 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_001.pdf: Seamus Nolan, seamusnolan@outlook.com, Keywords: 4
+2025-03-16 15:57:10,624 - ResumeScreening - INFO - Moved Irish_CV_001.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,624 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_015.pdf
+2025-03-16 15:57:10,627 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_015.pdf: Sarah Collins, collins.sarah@yahoo.com, Keywords: 6
+2025-03-16 15:57:10,628 - ResumeScreening - INFO - Moved Irish_CV_015.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,628 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_039.pdf
+2025-03-16 15:57:10,630 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_039.pdf: Emily Fitzgerald, emilyfitzgerald@outlook.com, Keywords: 1
+2025-03-16 15:57:10,631 - ResumeScreening - INFO - Moved Irish_CV_039.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,631 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_011.pdf
+2025-03-16 15:57:10,633 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_011.pdf: Tadhg O'Sullivan, sullivan@yahoo.com, Keywords: 1
+2025-03-16 15:57:10,633 - ResumeScreening - INFO - Moved Irish_CV_011.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,633 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_005.pdf
+2025-03-16 15:57:10,637 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_005.pdf: Darragh Brennan, darragh.brennan@outlook.com, Keywords: 4
+2025-03-16 15:57:10,637 - ResumeScreening - INFO - Moved Irish_CV_005.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,637 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_004.pdf
+2025-03-16 15:57:10,639 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_004.pdf: Declan Healy, declanh@eircom.net, Keywords: 3
+2025-03-16 15:57:10,640 - ResumeScreening - INFO - Moved Irish_CV_004.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,640 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_010.pdf
+2025-03-16 15:57:10,642 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_010.pdf: Amelia O'Connor, connor@gmail.com, Keywords: 2
+2025-03-16 15:57:10,642 - ResumeScreening - INFO - Moved Irish_CV_010.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,642 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_038.pdf
+2025-03-16 15:57:10,644 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_038.pdf: Fionn O'Sullivan, fionno@icloud.com, Keywords: 3
+2025-03-16 15:57:10,644 - ResumeScreening - INFO - Moved Irish_CV_038.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,644 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_006.pdf
+2025-03-16 15:57:10,647 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_006.pdf: Sophie Ryan, sophier@eircom.net, Keywords: 7
+2025-03-16 15:57:10,647 - ResumeScreening - INFO - Moved Irish_CV_006.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,647 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_012.pdf
+2025-03-16 15:57:10,650 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_012.pdf: Cillian O'Farrell, farrell@icloud.com, Keywords: 7
+2025-03-16 15:57:10,650 - ResumeScreening - INFO - Moved Irish_CV_012.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,650 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_013.pdf
+2025-03-16 15:57:10,653 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_013.pdf: Seamus Burke, sburke@icloud.com, Keywords: 1
+2025-03-16 15:57:10,653 - ResumeScreening - INFO - Moved Irish_CV_013.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,654 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_007.pdf
+2025-03-16 15:57:10,657 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_007.pdf: Chloe Duffy, duffy.chloe@icloud.com, Keywords: 2
+2025-03-16 15:57:10,657 - ResumeScreening - INFO - Moved Irish_CV_007.pdf to ./input_cv/processed/
+2025-03-16 15:57:10,662 - ResumeScreening - INFO - Saved extracted resume data to ./output/extracted_resumes.csv
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - Found 44 relevant candidates
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liam.boyle@hotmail.com
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liamlynch@hotmail.com
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ebyrne@gmail.com
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emmab@hotmail.com
+2025-03-16 15:57:10,665 - ResumeScreening - INFO - [SIMULATION] Survey email sent to olynch@hotmail.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@eircom.net
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.ryan@gmail.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcgrath@eircom.net
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@outlook.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to gracenolan@hotmail.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell.lucy@eircom.net
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to rkelly@icloud.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisinclarke@icloud.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to dcollins@outlook.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisin.boyle@outlook.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lquinn@outlook.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.seamus@yahoo.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@icloud.com
+2025-03-16 15:57:10,666 - ResumeScreening - INFO - [SIMULATION] Survey email sent to mcloughlin.sean@yahoo.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to murphy.emily@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emoran@icloud.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lynch.emily@hotmail.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcloughlin@gmail.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to orlah@gmail.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emilydoherty@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to healy.emily@outlook.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to reilly@yahoo.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@yahoo.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.moore@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sean@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to noah.boyle@eircom.net
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingc@outlook.com
+2025-03-16 15:57:10,667 - ResumeScreening - INFO - [SIMULATION] Survey email sent to avadoherty@yahoo.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to doherty@yahoo.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to seamusnolan@outlook.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sarah@yahoo.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to darragh.brennan@outlook.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to declanh@eircom.net
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@gmail.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to fionno@icloud.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sophier@eircom.net
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@icloud.com
+2025-03-16 15:57:10,668 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.chloe@icloud.com
+2025-03-16 15:57:10,670 - ResumeScreening - INFO - Loaded 79 survey responses
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - Saved classified candidates to ./output/output_candidates.csv
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liam.boyle@hotmail.com (Priority: High)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liamlynch@hotmail.com (Priority: High)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ebyrne@gmail.com (Priority: Medium)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emmab@hotmail.com (Priority: High)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to olynch@hotmail.com (Priority: High)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@eircom.net (Priority: High)
+2025-03-16 15:57:10,675 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.ryan@gmail.com (Priority: High)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcgrath@eircom.net (Priority: High)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@outlook.com (Priority: Low)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to gracenolan@hotmail.com (Priority: High)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell.lucy@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to rkelly@icloud.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisinclarke@icloud.com (Priority: Low)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to dcollins@outlook.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisin.boyle@outlook.com (Priority: High)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lquinn@outlook.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.seamus@yahoo.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@icloud.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to mcloughlin.sean@yahoo.com (Priority: Low)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to murphy.emily@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emoran@icloud.com (Priority: Medium)
+2025-03-16 15:57:10,676 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lynch.emily@hotmail.com (Priority: Low)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcloughlin@gmail.com (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to orlah@gmail.com (Priority: Low)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emilydoherty@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to healy.emily@outlook.com (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to reilly@yahoo.com (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@yahoo.com (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.moore@eircom.net (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sean@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to noah.boyle@eircom.net (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingc@outlook.com (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to avadoherty@yahoo.com (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to doherty@yahoo.com (Priority: Medium)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to seamusnolan@outlook.com (Priority: High)
+2025-03-16 15:57:10,677 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sarah@yahoo.com (Priority: High)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to darragh.brennan@outlook.com (Priority: High)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to declanh@eircom.net (Priority: Medium)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@gmail.com (Priority: Medium)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to fionno@icloud.com (Priority: Medium)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sophier@eircom.net (Priority: High)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@icloud.com (Priority: High)
+2025-03-16 15:57:10,678 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.chloe@icloud.com (Priority: Medium)
+2025-03-16 15:57:10,941 - ResumeScreening - INFO - Results visualization saved to ./output/screening_results.png
+2025-03-16 15:57:10,987 - ResumeScreening - INFO - Keyword distribution chart saved to ./output/keyword_distribution.png
+2025-03-16 15:57:10,987 - ResumeScreening - INFO - Resume Screening Pipeline completed successfully
+2025-03-16 15:58:24,741 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:58:24,741 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:58:24,742 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:58:24,742 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:58:24,742 - ResumeScreening - WARNING - No PDF files found in ./input_cv/
+2025-03-16 15:58:24,742 - ResumeScreening - WARNING - No resume data to process
+2025-03-16 15:58:41,829 - ResumeScreening - WARNING - spaCy model not available, continuing without NLP capabilities
+2025-03-16 15:58:41,829 - ResumeScreening - INFO - Starting Resume Screening Pipeline
+2025-03-16 15:58:41,830 - ResumeScreening - INFO - Loaded 20 keywords
+2025-03-16 15:58:41,830 - ResumeScreening - INFO - Monitoring ./input_cv/ for new PDFs...
+2025-03-16 15:58:41,830 - ResumeScreening - INFO - Found 99 PDF files to process
+2025-03-16 15:58:41,830 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_022.pdf
+2025-03-16 15:58:41,852 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_022.pdf: Liam Boyle, liam.boyle@hotmail.com, Keywords: 7
+2025-03-16 15:58:41,852 - ResumeScreening - INFO - Moved Irish_CV_022.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,852 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_036.pdf
+2025-03-16 15:58:41,855 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_036.pdf: Roisin Brennan, roisinb@yahoo.com, Keywords: 1
+2025-03-16 15:58:41,856 - ResumeScreening - INFO - Moved Irish_CV_036.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,856 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_037.pdf
+2025-03-16 15:58:41,859 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_037.pdf: Liam Lynch, liamlynch@hotmail.com, Keywords: 2
+2025-03-16 15:58:41,859 - ResumeScreening - INFO - Moved Irish_CV_037.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,859 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_023.pdf
+2025-03-16 15:58:41,861 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_023.pdf: Eimear Byrne, ebyrne@gmail.com, Keywords: 2
+2025-03-16 15:58:41,862 - ResumeScreening - INFO - Moved Irish_CV_023.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,862 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_035.pdf
+2025-03-16 15:58:41,864 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_035.pdf: Emma Boyle, emmab@hotmail.com, Keywords: 5
+2025-03-16 15:58:41,864 - ResumeScreening - INFO - Moved Irish_CV_035.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,864 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_021.pdf
+2025-03-16 15:58:41,866 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_021.pdf: Oisin Lynch, olynch@hotmail.com, Keywords: 6
+2025-03-16 15:58:41,867 - ResumeScreening - INFO - Moved Irish_CV_021.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,867 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_009.pdf
+2025-03-16 15:58:41,869 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_009.pdf: Liam O'Farrell, farrell@eircom.net, Keywords: 7
+2025-03-16 15:58:41,869 - ResumeScreening - INFO - Moved Irish_CV_009.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,869 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_008.pdf
+2025-03-16 15:58:41,872 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_008.pdf: Cillian Ryan, cillian.ryan@gmail.com, Keywords: 5
+2025-03-16 15:58:41,872 - ResumeScreening - INFO - Moved Irish_CV_008.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,872 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_020.pdf
+2025-03-16 15:58:41,875 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_020.pdf: Siobhan McGrath, smcgrath@eircom.net, Keywords: 6
+2025-03-16 15:58:41,875 - ResumeScreening - INFO - Moved Irish_CV_020.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,875 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_034.pdf
+2025-03-16 15:58:41,877 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_034.pdf: Roisin O'Neill, neill@outlook.com, Keywords: 2
+2025-03-16 15:58:41,877 - ResumeScreening - INFO - Moved Irish_CV_034.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,877 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_018.pdf
+2025-03-16 15:58:41,880 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_018.pdf: Grace Nolan, gracenolan@hotmail.com, Keywords: 7
+2025-03-16 15:58:41,880 - ResumeScreening - INFO - Moved Irish_CV_018.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,880 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_030.pdf
+2025-03-16 15:58:41,882 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_030.pdf: Lucy O'Farrell, farrell.lucy@eircom.net, Keywords: 4
+2025-03-16 15:58:41,882 - ResumeScreening - INFO - Moved Irish_CV_030.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,882 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_024.pdf
+2025-03-16 15:58:41,884 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_024.pdf: Roisin Kelly, rkelly@icloud.com, Keywords: 7
+2025-03-16 15:58:41,884 - ResumeScreening - INFO - Moved Irish_CV_024.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,884 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_025.pdf
+2025-03-16 15:58:41,887 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_025.pdf: Oisin Clarke, oisinclarke@icloud.com, Keywords: 3
+2025-03-16 15:58:41,887 - ResumeScreening - INFO - Moved Irish_CV_025.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,887 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_031.pdf
+2025-03-16 15:58:41,889 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_031.pdf: Darragh Collins, dcollins@outlook.com, Keywords: 5
+2025-03-16 15:58:41,889 - ResumeScreening - INFO - Moved Irish_CV_031.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,889 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_019.pdf
+2025-03-16 15:58:41,892 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_019.pdf: Oisin Boyle, oisin.boyle@outlook.com, Keywords: 7
+2025-03-16 15:58:41,892 - ResumeScreening - INFO - Moved Irish_CV_019.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,892 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_027.pdf
+2025-03-16 15:58:41,894 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_027.pdf: Liam Quinn, lquinn@outlook.com, Keywords: 4
+2025-03-16 15:58:41,895 - ResumeScreening - INFO - Moved Irish_CV_027.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,895 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_033.pdf
+2025-03-16 15:58:41,897 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_033.pdf: Seamus Duffy, duffy.seamus@yahoo.com, Keywords: 4
+2025-03-16 15:58:41,897 - ResumeScreening - INFO - Moved Irish_CV_033.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,898 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_032.pdf
+2025-03-16 15:58:41,900 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_032.pdf: Daniel O'Brien, brien@icloud.com, Keywords: 6
+2025-03-16 15:58:41,900 - ResumeScreening - INFO - Moved Irish_CV_032.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,900 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_026.pdf
+2025-03-16 15:58:41,903 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_026.pdf: Sean McLoughlin, mcloughlin.sean@yahoo.com, Keywords: 2
+2025-03-16 15:58:41,903 - ResumeScreening - INFO - Moved Irish_CV_026.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,903 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_082.pdf
+2025-03-16 15:58:41,906 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_082.pdf: Orla Brennan, brennan.orla@hotmail.com, Keywords: 3
+2025-03-16 15:58:41,906 - ResumeScreening - INFO - Moved Irish_CV_082.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,907 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_096.pdf
+2025-03-16 15:58:41,909 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_096.pdf: Saoirse O'Connell, saoirseo@eircom.net, Keywords: 7
+2025-03-16 15:58:41,910 - ResumeScreening - INFO - Moved Irish_CV_096.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,910 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_041.pdf
+2025-03-16 15:58:41,912 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_041.pdf: Emily Murphy, murphy.emily@eircom.net, Keywords: 5
+2025-03-16 15:58:41,913 - ResumeScreening - INFO - Moved Irish_CV_041.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,913 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_055.pdf
+2025-03-16 15:58:41,915 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_055.pdf: Ava Nolan, ava.nolan@eircom.net, Keywords: 3
+2025-03-16 15:58:41,915 - ResumeScreening - INFO - Moved Irish_CV_055.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,915 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_069.pdf
+2025-03-16 15:58:41,917 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_069.pdf: Ciara Connolly, cconnolly@outlook.com, Keywords: 6
+2025-03-16 15:58:41,918 - ResumeScreening - INFO - Moved Irish_CV_069.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,918 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_068.pdf
+2025-03-16 15:58:41,919 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_068.pdf: Aisling Moore, aislingmoore@eircom.net, Keywords: 2
+2025-03-16 15:58:41,920 - ResumeScreening - INFO - Moved Irish_CV_068.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,920 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_054.pdf
+2025-03-16 15:58:41,922 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_054.pdf: Amelia Moran, amelia.moran@yahoo.com, Keywords: 3
+2025-03-16 15:58:41,922 - ResumeScreening - INFO - Moved Irish_CV_054.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,922 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_040.pdf
+2025-03-16 15:58:41,924 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_040.pdf: Caoimhe McLoughlin, cmcloughlin@eircom.net, Keywords: 1
+2025-03-16 15:58:41,925 - ResumeScreening - INFO - Moved Irish_CV_040.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,925 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_097.pdf
+2025-03-16 15:58:41,927 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_097.pdf: Ryan Collins, ryancollins@icloud.com, Keywords: 6
+2025-03-16 15:58:41,927 - ResumeScreening - INFO - Moved Irish_CV_097.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,927 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_083.pdf
+2025-03-16 15:58:41,929 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_083.pdf: Cathal Quinn, quinn.cathal@outlook.com, Keywords: 3
+2025-03-16 15:58:41,930 - ResumeScreening - INFO - Moved Irish_CV_083.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,930 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_095.pdf
+2025-03-16 15:58:41,932 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_095.pdf: Conor O'Brien, brien@yahoo.com, Keywords: 6
+2025-03-16 15:58:41,932 - ResumeScreening - INFO - Moved Irish_CV_095.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,932 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_081.pdf
+2025-03-16 15:58:41,934 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_081.pdf: Finn Clarke, finn.clarke@gmail.com, Keywords: 5
+2025-03-16 15:58:41,934 - ResumeScreening - INFO - Moved Irish_CV_081.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,934 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_056.pdf
+2025-03-16 15:58:41,938 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_056.pdf: James Healy, jhealy@hotmail.com, Keywords: 1
+2025-03-16 15:58:41,938 - ResumeScreening - INFO - Moved Irish_CV_056.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,938 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_042.pdf
+2025-03-16 15:58:41,942 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_042.pdf: Emma Moran, emoran@icloud.com, Keywords: 4
+2025-03-16 15:58:41,942 - ResumeScreening - INFO - Moved Irish_CV_042.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,942 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_043.pdf
+2025-03-16 15:58:41,945 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_043.pdf: Emily Lynch, lynch.emily@hotmail.com, Keywords: 3
+2025-03-16 15:58:41,946 - ResumeScreening - INFO - Moved Irish_CV_043.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,946 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_057.pdf
+2025-03-16 15:58:41,949 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_057.pdf: Fionn Collins, collins.fionn@gmail.com, Keywords: 6
+2025-03-16 15:58:41,949 - ResumeScreening - INFO - Moved Irish_CV_057.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,949 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_080.pdf
+2025-03-16 15:58:41,952 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_080.pdf: Oisin Murray, oisinm@icloud.com, Keywords: 6
+2025-03-16 15:58:41,953 - ResumeScreening - INFO - Moved Irish_CV_080.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,953 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_094.pdf
+2025-03-16 15:58:41,956 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_094.pdf: Amelia Doherty, ameliadoherty@hotmail.com, Keywords: 3
+2025-03-16 15:58:41,956 - ResumeScreening - INFO - Moved Irish_CV_094.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,956 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_090.pdf
+2025-03-16 15:58:41,959 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_090.pdf: Cillian O'Farrell, cilliano@hotmail.com, Keywords: 4
+2025-03-16 15:58:41,959 - ResumeScreening - INFO - Moved Irish_CV_090.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,959 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_084.pdf
+2025-03-16 15:58:41,962 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_084.pdf: Ryan Murray, rmurray@hotmail.com, Keywords: 4
+2025-03-16 15:58:41,962 - ResumeScreening - INFO - Moved Irish_CV_084.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,962 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_053.pdf
+2025-03-16 15:58:41,964 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_053.pdf: Ciara Fitzgerald, ciarafitzgerald@eircom.net, Keywords: 3
+2025-03-16 15:58:41,964 - ResumeScreening - INFO - Moved Irish_CV_053.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,964 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_047.pdf
+2025-03-16 15:58:41,966 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_047.pdf: James O'Neill, neill@eircom.net, Keywords: 7
+2025-03-16 15:58:41,967 - ResumeScreening - INFO - Moved Irish_CV_047.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,967 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_046.pdf
+2025-03-16 15:58:41,969 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_046.pdf: Seamus McLoughlin, smcloughlin@gmail.com, Keywords: 5
+2025-03-16 15:58:41,969 - ResumeScreening - INFO - Moved Irish_CV_046.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,969 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_052.pdf
+2025-03-16 15:58:41,971 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_052.pdf: Aoife McLoughlin, amcloughlin@eircom.net, Keywords: 5
+2025-03-16 15:58:41,971 - ResumeScreening - INFO - Moved Irish_CV_052.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,971 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_085.pdf
+2025-03-16 15:58:41,974 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_085.pdf: Liam Quinn, lquinn@outlook.com, Keywords: 3
+2025-03-16 15:58:41,974 - ResumeScreening - INFO - Moved Irish_CV_085.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,974 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_091.pdf
+2025-03-16 15:58:41,976 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_091.pdf: Jack McLoughlin, jackm@outlook.com, Keywords: 2
+2025-03-16 15:58:41,977 - ResumeScreening - INFO - Moved Irish_CV_091.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,977 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_087.pdf
+2025-03-16 15:58:41,979 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_087.pdf: Orla Murphy, omurphy@eircom.net, Keywords: 6
+2025-03-16 15:58:41,979 - ResumeScreening - INFO - Moved Irish_CV_087.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,980 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_093.pdf
+2025-03-16 15:58:41,982 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_093.pdf: Jack O'Doherty, doherty@yahoo.com, Keywords: 6
+2025-03-16 15:58:41,983 - ResumeScreening - INFO - Moved Irish_CV_093.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,983 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_078.pdf
+2025-03-16 15:58:41,986 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_078.pdf: Patrick O'Connell, connell@yahoo.com, Keywords: 6
+2025-03-16 15:58:41,987 - ResumeScreening - INFO - Moved Irish_CV_078.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,987 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_044.pdf
+2025-03-16 15:58:41,990 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_044.pdf: Orla Hughes, orlah@gmail.com, Keywords: 3
+2025-03-16 15:58:41,990 - ResumeScreening - INFO - Moved Irish_CV_044.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,990 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_050.pdf
+2025-03-16 15:58:41,993 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_050.pdf: Emily Doherty, emilydoherty@eircom.net, Keywords: 6
+2025-03-16 15:58:41,994 - ResumeScreening - INFO - Moved Irish_CV_050.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,994 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_051.pdf
+2025-03-16 15:58:41,996 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_051.pdf: James Lynch, jamesl@yahoo.com, Keywords: 2
+2025-03-16 15:58:41,996 - ResumeScreening - INFO - Moved Irish_CV_051.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,996 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_045.pdf
+2025-03-16 15:58:41,998 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_045.pdf: Emily Healy, healy.emily@outlook.com, Keywords: 6
+2025-03-16 15:58:41,999 - ResumeScreening - INFO - Moved Irish_CV_045.pdf to ./input_cv/processed/
+2025-03-16 15:58:41,999 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_079.pdf
+2025-03-16 15:58:42,001 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_079.pdf: Cillian Lynch, cillianl@hotmail.com, Keywords: 2
+2025-03-16 15:58:42,001 - ResumeScreening - INFO - Moved Irish_CV_079.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,001 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_092.pdf
+2025-03-16 15:58:42,004 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_092.pdf: Ella Smith, smith.ella@hotmail.com, Keywords: 5
+2025-03-16 15:58:42,004 - ResumeScreening - INFO - Moved Irish_CV_092.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,004 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_086.pdf
+2025-03-16 15:58:42,007 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_086.pdf: Sarah Quinn, sarah.quinn@outlook.com, Keywords: 5
+2025-03-16 15:58:42,007 - ResumeScreening - INFO - Moved Irish_CV_086.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,007 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_060.pdf
+2025-03-16 15:58:42,010 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_060.pdf: Conor Connolly, conorc@yahoo.com, Keywords: 2
+2025-03-16 15:58:42,010 - ResumeScreening - INFO - Moved Irish_CV_060.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,010 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_074.pdf
+2025-03-16 15:58:42,012 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_074.pdf: Eoin Quinn, equinn@yahoo.com, Keywords: 6
+2025-03-16 15:58:42,012 - ResumeScreening - INFO - Moved Irish_CV_074.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,012 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_048.pdf
+2025-03-16 15:58:42,015 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_048.pdf: Liam O'Reilly, reilly@yahoo.com, Keywords: 5
+2025-03-16 15:58:42,015 - ResumeScreening - INFO - Moved Irish_CV_048.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,015 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_049.pdf
+2025-03-16 15:58:42,017 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_049.pdf: James O'Connor, connor@yahoo.com, Keywords: 7
+2025-03-16 15:58:42,017 - ResumeScreening - INFO - Moved Irish_CV_049.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,017 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_075.pdf
+2025-03-16 15:58:42,019 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_075.pdf: Niamh Quinn, nquinn@gmail.com, Keywords: 3
+2025-03-16 15:58:42,020 - ResumeScreening - INFO - Moved Irish_CV_075.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,020 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_061.pdf
+2025-03-16 15:58:42,022 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_061.pdf: Aisling Brennan, abrennan@yahoo.com, Keywords: 4
+2025-03-16 15:58:42,022 - ResumeScreening - INFO - Moved Irish_CV_061.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,022 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_088.pdf
+2025-03-16 15:58:42,025 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_088.pdf: Cillian Smith, cillians@outlook.com, Keywords: 5
+2025-03-16 15:58:42,025 - ResumeScreening - INFO - Moved Irish_CV_088.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,025 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_077.pdf
+2025-03-16 15:58:42,027 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_077.pdf: Orla O'Connor, connor.orla@yahoo.com, Keywords: 3
+2025-03-16 15:58:42,027 - ResumeScreening - INFO - Moved Irish_CV_077.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,027 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_063.pdf
+2025-03-16 15:58:42,030 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_063.pdf: Emma Johnston, emma.johnston@yahoo.com, Keywords: 6
+2025-03-16 15:58:42,030 - ResumeScreening - INFO - Moved Irish_CV_063.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,030 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_062.pdf
+2025-03-16 15:58:42,032 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_062.pdf: Eimear O'Brien, brien@gmail.com, Keywords: 2
+2025-03-16 15:58:42,032 - ResumeScreening - INFO - Moved Irish_CV_062.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,032 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_076.pdf
+2025-03-16 15:58:42,034 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_076.pdf: Grace Nolan, gnolan@yahoo.com, Keywords: 1
+2025-03-16 15:58:42,034 - ResumeScreening - INFO - Moved Irish_CV_076.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,035 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_089.pdf
+2025-03-16 15:58:42,037 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_089.pdf: Ava Gallagher, agallagher@gmail.com, Keywords: 2
+2025-03-16 15:58:42,037 - ResumeScreening - INFO - Moved Irish_CV_089.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,037 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_099.pdf
+2025-03-16 15:58:42,039 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_099.pdf: James Doyle, jamesdoyle@hotmail.com, Keywords: 5
+2025-03-16 15:58:42,039 - ResumeScreening - INFO - Moved Irish_CV_099.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,040 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_072.pdf
+2025-03-16 15:58:42,043 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_072.pdf: Liam O'Connor, connor@hotmail.com, Keywords: 7
+2025-03-16 15:58:42,043 - ResumeScreening - INFO - Moved Irish_CV_072.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,043 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_066.pdf
+2025-03-16 15:58:42,045 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_066.pdf: Orla McLoughlin, omcloughlin@outlook.com, Keywords: 5
+2025-03-16 15:58:42,046 - ResumeScreening - INFO - Moved Irish_CV_066.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,046 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_067.pdf
+2025-03-16 15:58:42,048 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_067.pdf: Noah Fitzgerald, nfitzgerald@yahoo.com, Keywords: 7
+2025-03-16 15:58:42,048 - ResumeScreening - INFO - Moved Irish_CV_067.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,048 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_073.pdf
+2025-03-16 15:58:42,051 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_073.pdf: Sean Collins, sean.collins@eircom.net, Keywords: 6
+2025-03-16 15:58:42,051 - ResumeScreening - INFO - Moved Irish_CV_073.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,051 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_098.pdf
+2025-03-16 15:58:42,053 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_098.pdf: Sean McLoughlin, smcloughlin@gmail.com, Keywords: 2
+2025-03-16 15:58:42,054 - ResumeScreening - INFO - Moved Irish_CV_098.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,054 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_059.pdf
+2025-03-16 15:58:42,056 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_059.pdf: Ciara Clarke, ciarac@eircom.net, Keywords: 2
+2025-03-16 15:58:42,056 - ResumeScreening - INFO - Moved Irish_CV_059.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,056 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_065.pdf
+2025-03-16 15:58:42,058 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_065.pdf: Aoife Murray, aoifem@hotmail.com, Keywords: 5
+2025-03-16 15:58:42,059 - ResumeScreening - INFO - Moved Irish_CV_065.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,059 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_071.pdf
+2025-03-16 15:58:42,061 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_071.pdf: Siobhan McLoughlin, siobhanmcloughlin@gmail.com, Keywords: 1
+2025-03-16 15:58:42,061 - ResumeScreening - INFO - Moved Irish_CV_071.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,061 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_070.pdf
+2025-03-16 15:58:42,063 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_070.pdf: Orla Moran, orla.moran@gmail.com, Keywords: 7
+2025-03-16 15:58:42,063 - ResumeScreening - INFO - Moved Irish_CV_070.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,063 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_064.pdf
+2025-03-16 15:58:42,066 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_064.pdf: Emily Kelly, emily.kelly@icloud.com, Keywords: 4
+2025-03-16 15:58:42,067 - ResumeScreening - INFO - Moved Irish_CV_064.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,067 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_058.pdf
+2025-03-16 15:58:42,071 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_058.pdf: Sophie McLoughlin, sophiemcloughlin@hotmail.com, Keywords: 1
+2025-03-16 15:58:42,071 - ResumeScreening - INFO - Moved Irish_CV_058.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,071 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_003.pdf
+2025-03-16 15:58:42,075 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_003.pdf: Cillian Moore, cillian.moore@eircom.net, Keywords: 2
+2025-03-16 15:58:42,075 - ResumeScreening - INFO - Moved Irish_CV_003.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,075 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_017.pdf
+2025-03-16 15:58:42,078 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_017.pdf: Sean Collins, collins.sean@eircom.net, Keywords: 2
+2025-03-16 15:58:42,078 - ResumeScreening - INFO - Moved Irish_CV_017.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,079 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_016.pdf
+2025-03-16 15:58:42,081 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_016.pdf: Noah Boyle, noah.boyle@eircom.net, Keywords: 5
+2025-03-16 15:58:42,081 - ResumeScreening - INFO - Moved Irish_CV_016.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,081 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_002.pdf
+2025-03-16 15:58:42,084 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_002.pdf: Grace McCarthy, gmccarthy@gmail.com, Keywords: 1
+2025-03-16 15:58:42,084 - ResumeScreening - INFO - Moved Irish_CV_002.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,084 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_014.pdf
+2025-03-16 15:58:42,087 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_014.pdf: Aisling Connolly, aislingc@outlook.com, Keywords: 5
+2025-03-16 15:58:42,087 - ResumeScreening - INFO - Moved Irish_CV_014.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,087 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_028.pdf
+2025-03-16 15:58:42,090 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_028.pdf: Ava Doherty, avadoherty@yahoo.com, Keywords: 6
+2025-03-16 15:58:42,091 - ResumeScreening - INFO - Moved Irish_CV_028.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,091 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_029.pdf
+2025-03-16 15:58:42,094 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_029.pdf: Sarah O'Doherty, doherty@yahoo.com, Keywords: 9
+2025-03-16 15:58:42,094 - ResumeScreening - INFO - Moved Irish_CV_029.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,094 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_001.pdf
+2025-03-16 15:58:42,097 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_001.pdf: Seamus Nolan, seamusnolan@outlook.com, Keywords: 4
+2025-03-16 15:58:42,098 - ResumeScreening - INFO - Moved Irish_CV_001.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,098 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_015.pdf
+2025-03-16 15:58:42,101 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_015.pdf: Sarah Collins, collins.sarah@yahoo.com, Keywords: 6
+2025-03-16 15:58:42,101 - ResumeScreening - INFO - Moved Irish_CV_015.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,101 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_039.pdf
+2025-03-16 15:58:42,104 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_039.pdf: Emily Fitzgerald, emilyfitzgerald@outlook.com, Keywords: 1
+2025-03-16 15:58:42,104 - ResumeScreening - INFO - Moved Irish_CV_039.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,104 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_011.pdf
+2025-03-16 15:58:42,107 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_011.pdf: Tadhg O'Sullivan, sullivan@yahoo.com, Keywords: 1
+2025-03-16 15:58:42,107 - ResumeScreening - INFO - Moved Irish_CV_011.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,107 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_005.pdf
+2025-03-16 15:58:42,110 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_005.pdf: Darragh Brennan, darragh.brennan@outlook.com, Keywords: 4
+2025-03-16 15:58:42,110 - ResumeScreening - INFO - Moved Irish_CV_005.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,110 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_004.pdf
+2025-03-16 15:58:42,112 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_004.pdf: Declan Healy, declanh@eircom.net, Keywords: 3
+2025-03-16 15:58:42,113 - ResumeScreening - INFO - Moved Irish_CV_004.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,113 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_010.pdf
+2025-03-16 15:58:42,115 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_010.pdf: Amelia O'Connor, connor@gmail.com, Keywords: 2
+2025-03-16 15:58:42,115 - ResumeScreening - INFO - Moved Irish_CV_010.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,115 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_038.pdf
+2025-03-16 15:58:42,117 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_038.pdf: Fionn O'Sullivan, fionno@icloud.com, Keywords: 3
+2025-03-16 15:58:42,117 - ResumeScreening - INFO - Moved Irish_CV_038.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,117 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_006.pdf
+2025-03-16 15:58:42,120 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_006.pdf: Sophie Ryan, sophier@eircom.net, Keywords: 7
+2025-03-16 15:58:42,120 - ResumeScreening - INFO - Moved Irish_CV_006.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,120 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_012.pdf
+2025-03-16 15:58:42,122 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_012.pdf: Cillian O'Farrell, farrell@icloud.com, Keywords: 7
+2025-03-16 15:58:42,122 - ResumeScreening - INFO - Moved Irish_CV_012.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,122 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_013.pdf
+2025-03-16 15:58:42,125 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_013.pdf: Seamus Burke, sburke@icloud.com, Keywords: 1
+2025-03-16 15:58:42,125 - ResumeScreening - INFO - Moved Irish_CV_013.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,125 - ResumeScreening - INFO - Processing resume: ./input_cv/Irish_CV_007.pdf
+2025-03-16 15:58:42,128 - ResumeScreening - INFO - Extracted data from ./input_cv/Irish_CV_007.pdf: Chloe Duffy, duffy.chloe@icloud.com, Keywords: 2
+2025-03-16 15:58:42,128 - ResumeScreening - INFO - Moved Irish_CV_007.pdf to ./input_cv/processed/
+2025-03-16 15:58:42,134 - ResumeScreening - INFO - Saved extracted resume data to ./output/extracted_resumes.csv
+2025-03-16 15:58:42,137 - ResumeScreening - INFO - Found 89 relevant candidates
+2025-03-16 15:58:42,138 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liam.boyle@hotmail.com
+2025-03-16 15:58:42,138 - ResumeScreening - INFO - [SIMULATION] Survey email sent to liamlynch@hotmail.com
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ebyrne@gmail.com
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emmab@hotmail.com
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to olynch@hotmail.com
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@eircom.net
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.ryan@gmail.com
+2025-03-16 15:58:42,139 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcgrath@eircom.net
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@outlook.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to gracenolan@hotmail.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell.lucy@eircom.net
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to rkelly@icloud.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisinclarke@icloud.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to dcollins@outlook.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisin.boyle@outlook.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lquinn@outlook.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.seamus@yahoo.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@icloud.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to mcloughlin.sean@yahoo.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brennan.orla@hotmail.com
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to saoirseo@eircom.net
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to murphy.emily@eircom.net
+2025-03-16 15:58:42,140 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ava.nolan@eircom.net
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cconnolly@outlook.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingmoore@eircom.net
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to amelia.moran@yahoo.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ryancollins@icloud.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to quinn.cathal@outlook.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@yahoo.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to finn.clarke@gmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emoran@icloud.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lynch.emily@hotmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.fionn@gmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to oisinm@icloud.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ameliadoherty@hotmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cilliano@hotmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to rmurray@hotmail.com
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ciarafitzgerald@eircom.net
+2025-03-16 15:58:42,141 - ResumeScreening - INFO - [SIMULATION] Survey email sent to neill@eircom.net
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcloughlin@gmail.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to amcloughlin@eircom.net
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to lquinn@outlook.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jackm@outlook.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to omurphy@eircom.net
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to doherty@yahoo.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connell@yahoo.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to orlah@gmail.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emilydoherty@eircom.net
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jamesl@yahoo.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to healy.emily@outlook.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillianl@hotmail.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smith.ella@hotmail.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sarah.quinn@outlook.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to conorc@yahoo.com
+2025-03-16 15:58:42,142 - ResumeScreening - INFO - [SIMULATION] Survey email sent to equinn@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to reilly@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to nquinn@gmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to abrennan@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillians@outlook.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor.orla@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emma.johnston@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to brien@gmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to agallagher@gmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to jamesdoyle@hotmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@hotmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to omcloughlin@outlook.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to nfitzgerald@yahoo.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sean.collins@eircom.net
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to smcloughlin@gmail.com
+2025-03-16 15:58:42,143 - ResumeScreening - INFO - [SIMULATION] Survey email sent to ciarac@eircom.net
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aoifem@hotmail.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to orla.moran@gmail.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to emily.kelly@icloud.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to cillian.moore@eircom.net
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sean@eircom.net
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to noah.boyle@eircom.net
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to aislingc@outlook.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to avadoherty@yahoo.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to doherty@yahoo.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to seamusnolan@outlook.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to collins.sarah@yahoo.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to darragh.brennan@outlook.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to declanh@eircom.net
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to connor@gmail.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to fionno@icloud.com
+2025-03-16 15:58:42,144 - ResumeScreening - INFO - [SIMULATION] Survey email sent to sophier@eircom.net
+2025-03-16 15:58:42,145 - ResumeScreening - INFO - [SIMULATION] Survey email sent to farrell@icloud.com
+2025-03-16 15:58:42,145 - ResumeScreening - INFO - [SIMULATION] Survey email sent to duffy.chloe@icloud.com
+2025-03-16 15:58:42,147 - ResumeScreening - INFO - Loaded 50 survey responses
+2025-03-16 15:58:42,153 - ResumeScreening - INFO - Saved classified candidates to ./output/output_candidates.csv
+2025-03-16 15:58:42,153 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liam.boyle@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to liamlynch@hotmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ebyrne@gmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emmab@hotmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to olynch@hotmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@eircom.net (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.ryan@gmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcgrath@eircom.net (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@outlook.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to gracenolan@hotmail.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell.lucy@eircom.net (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to rkelly@icloud.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisinclarke@icloud.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to dcollins@outlook.com (Priority: High)
+2025-03-16 15:58:42,154 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisin.boyle@outlook.com (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lquinn@outlook.com (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.seamus@yahoo.com (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@icloud.com (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to mcloughlin.sean@yahoo.com (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brennan.orla@hotmail.com (Priority: Low)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to saoirseo@eircom.net (Priority: Medium)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to murphy.emily@eircom.net (Priority: High)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ava.nolan@eircom.net (Priority: Low)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cconnolly@outlook.com (Priority: Medium)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingmoore@eircom.net (Priority: Low)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to amelia.moran@yahoo.com (Priority: Low)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ryancollins@icloud.com (Priority: Medium)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to quinn.cathal@outlook.com (Priority: Low)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,155 - ResumeScreening - INFO - [SIMULATION] Interview email sent to finn.clarke@gmail.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emoran@icloud.com (Priority: High)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lynch.emily@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.fionn@gmail.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to oisinm@icloud.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ameliadoherty@hotmail.com (Priority: Low)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cilliano@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to rmurray@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ciarafitzgerald@eircom.net (Priority: Low)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to neill@eircom.net (Priority: High)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcloughlin@gmail.com (Priority: High)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to amcloughlin@eircom.net (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to lquinn@outlook.com (Priority: High)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jackm@outlook.com (Priority: Low)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to omurphy@eircom.net (Priority: Medium)
+2025-03-16 15:58:42,156 - ResumeScreening - INFO - [SIMULATION] Interview email sent to doherty@yahoo.com (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connell@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to orlah@gmail.com (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emilydoherty@eircom.net (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jamesl@yahoo.com (Priority: Low)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to healy.emily@outlook.com (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillianl@hotmail.com (Priority: Low)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smith.ella@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sarah.quinn@outlook.com (Priority: Medium)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to conorc@yahoo.com (Priority: Low)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to equinn@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to reilly@yahoo.com (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@yahoo.com (Priority: High)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to nquinn@gmail.com (Priority: Low)
+2025-03-16 15:58:42,157 - ResumeScreening - INFO - [SIMULATION] Interview email sent to abrennan@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillians@outlook.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor.orla@yahoo.com (Priority: Low)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emma.johnston@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to brien@gmail.com (Priority: Low)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to agallagher@gmail.com (Priority: Low)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to jamesdoyle@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to omcloughlin@outlook.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to nfitzgerald@yahoo.com (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sean.collins@eircom.net (Priority: Medium)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to smcloughlin@gmail.com (Priority: High)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to ciarac@eircom.net (Priority: Low)
+2025-03-16 15:58:42,158 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aoifem@hotmail.com (Priority: Medium)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to orla.moran@gmail.com (Priority: Medium)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to emily.kelly@icloud.com (Priority: Medium)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to cillian.moore@eircom.net (Priority: Medium)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sean@eircom.net (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to noah.boyle@eircom.net (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to aislingc@outlook.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to avadoherty@yahoo.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to doherty@yahoo.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to seamusnolan@outlook.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to collins.sarah@yahoo.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to darragh.brennan@outlook.com (Priority: Medium)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to declanh@eircom.net (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to connor@gmail.com (Priority: High)
+2025-03-16 15:58:42,159 - ResumeScreening - INFO - [SIMULATION] Interview email sent to fionno@icloud.com (Priority: High)
+2025-03-16 15:58:42,160 - ResumeScreening - INFO - [SIMULATION] Interview email sent to sophier@eircom.net (Priority: High)
+2025-03-16 15:58:42,160 - ResumeScreening - INFO - [SIMULATION] Interview email sent to farrell@icloud.com (Priority: High)
+2025-03-16 15:58:42,160 - ResumeScreening - INFO - [SIMULATION] Interview email sent to duffy.chloe@icloud.com (Priority: Medium)
+2025-03-16 15:58:42,370 - ResumeScreening - INFO - Results visualization saved to ./output/screening_results.png
+2025-03-16 15:58:42,419 - ResumeScreening - INFO - Keyword distribution chart saved to ./output/keyword_distribution.png
+2025-03-16 15:58:42,419 - ResumeScreening - INFO - Resume Screening Pipeline completed successfully
