@@ -123,4 +123,4 @@ This distribution allows for testing the resume screening pipeline with realisti
 [MIT License](LICENSE)
 
 ## Author
-Your Name
+Caio Teixeira - NCI
